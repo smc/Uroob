@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1426574824
+ModificationTime: 1426944468
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -578,10 +578,10 @@ LangName: 1033 "" "" "" "" "" "1" "" "" "SMC" "Muni" "" "" "" "Hussain, Rajeesh,
 Encoding: Custom
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -72
+DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 486 18 7
+WinInfo: 252 36 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -7708,7 +7708,7 @@ SplineSet
  54 701.921 54 701.921 183 909 c 1,14,-1
  423 909 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable" r3 xx
 Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 2 subtable" xx r3
 EndChar
@@ -7748,7 +7748,7 @@ SplineSet
  108 929 l 1,35,-1
  291 929 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 12 subtable" xx y1
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable" y1 xx
 EndChar
@@ -7802,7 +7802,7 @@ SplineSet
  483 42.5116 483 42.5116 483 -40.4664 c 128,-1,53
  483 -123.444 483 -123.444 449 -182 c 1,8,9
 EndSplineSet
-LCarets2: 1 103 
+LCarets2: 1 103
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y2 u1
 EndChar
 
@@ -7863,7 +7863,7 @@ SplineSet
  483 42.5116 483 42.5116 483 -43.768 c 128,-1,66
  483 -130.048 483 -130.048 443 -191 c 1,8,9
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y2 u2
 EndChar
 
@@ -7884,7 +7884,7 @@ SplineSet
  -122 -162 l 1,5,-1
  -122 -22 l 1,0,-1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 12 subtable" xx v1
 Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable" v1 xx
 EndChar
@@ -8164,7 +8164,7 @@ SplineSet
  280 479 280 479 280 391 c 2,81,-1
  280 212 l 2,73,74
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1 r1
 EndChar
 
@@ -10180,7 +10180,7 @@ SplineSet
  1655 866.29 1655 866.29 1655 780 c 2,151,-1
  1655 543 l 1,90,91
 EndSplineSet
-LCarets2: 4 0 0 0 0 
+LCarets2: 4 0 0 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx sh xx nh
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx nh
 EndChar
@@ -12575,7 +12575,7 @@ SplineSet
  97 981 97 981 342 981 c 0,91,92
  443.556 981 443.556 981 498 911 c 1,30,31
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ngk1 r1
 EndChar
 
@@ -13602,7 +13602,7 @@ SplineSet
  1712.27 672 1712.27 672 1778.5 546 c 0,113,114
  1799 507 1799 507 1799 460 c 2,11,-1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch2 r1
 EndChar
 
@@ -14635,7 +14635,7 @@ SplineSet
  1260.31 367 1260.31 367 1220.78 403.727 c 1,206,207
  1212.22 342.928 1212.22 342.928 1200.37 301.932 c 1,173,174
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3ch3 r1
 EndChar
 
@@ -15152,7 +15152,7 @@ SplineSet
  1529 208 l 1,112,113
  1539.22 116 1539.22 116 1605 116 c 0,9,10
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch4 r1
 EndChar
 
@@ -16550,7 +16550,7 @@ SplineSet
  681 420.091 681 420.091 681 344 c 2,70,-1
  681 202 l 2,8,9
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1 u1
 EndChar
 
@@ -18605,7 +18605,7 @@ SplineSet
  1273 -174 1273 -174 1273 -236 c 2,102,-1
  1273 -268 l 2,87,88
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx t2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t2
 EndChar
@@ -20334,7 +20334,7 @@ SplineSet
  1721.5 969 1721.5 969 1771 906 c 1,120,121
  1814.64 970 1814.64 970 1982 970 c 1,18,-1
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 th1th1
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1th1 r4
 Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1th1 xx r3
@@ -22013,7 +22013,7 @@ SplineSet
  546 -16 546 -16 546 -186 c 1,55,-1
  446 -186 l 1,0,1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3 r1
 EndChar
 
@@ -25622,7 +25622,7 @@ SplineSet
  594 618.676 594 618.676 594 527 c 2,74,-1
  594 290 l 2,45,46
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx th1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx th1
 EndChar
@@ -26710,7 +26710,7 @@ SplineSet
  1009.58 -52.5303 1009.58 -52.5303 1009.58 -84.2275 c 2,97,-1
  1009.58 -138.42 l 1,67,68
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx k1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx k1
 EndChar
@@ -26782,7 +26782,7 @@ SplineSet
  848 -139 l 2,73,74
  848 -172 848 -172 906 -172 c 1,45,46
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx t1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx t1
 EndChar
@@ -27535,7 +27535,7 @@ SplineSet
  1069.82 -52.2646 1069.82 -52.2646 1035.23 -52.2646 c 1,86,-1
  1035.23 21.2822 l 1,45,46
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx s1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx s1
 EndChar
@@ -28401,7 +28401,7 @@ SplineSet
  707.485 14 707.485 14 892.145 14 c 0,89,90
  978.646 14 978.646 14 1023.06 -16.1184 c 1,59,60
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p3 xx n1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx n1
 EndChar
@@ -31510,7 +31510,7 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,123,-1
  1018 778 l 2,83,84
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1th1 u1
 EndChar
 
@@ -32987,7 +32987,7 @@ SplineSet
  650 864.289 650 864.289 650 770 c 2,56,-1
  650 228 l 2,0,1
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 r1
 EndChar
 
@@ -34249,7 +34249,7 @@ SplineSet
  418 159 418 159 418 251 c 2,104,-1
  418 779 l 2,57,58
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" z1xx l3
 Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" z1 l4
 EndChar
@@ -34931,7 +34931,7 @@ SplineSet
  593 591.014 593 591.014 593 498 c 2,133,-1
  593 267 l 2,82,83
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" shk1 r1
 EndChar
 
@@ -35243,7 +35243,7 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,91,-1
  1045 544 l 1,43,44
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx t1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx t1
 EndChar
@@ -35417,7 +35417,7 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,85,-1
  1045 544 l 1,37,38
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx t2
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx t2
 EndChar
@@ -36458,7 +36458,7 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,98,-1
  984 993 l 1,50,51
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx k1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1
 EndChar
@@ -36762,7 +36762,7 @@ SplineSet
  1061 163 1061 163 1061 254 c 2,119,-1
  1061 780 l 2,70,71
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1k1 r1
 EndChar
 
@@ -37746,7 +37746,7 @@ SplineSet
  1290 835 1290 835 1290 777 c 2,112,-1
  1290 200 l 2,18,19
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1th2 u2
 EndChar
 
@@ -37819,7 +37819,7 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,82,-1
  984 993 l 1,34,35
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx n1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx n1
 EndChar
@@ -38065,7 +38065,7 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,107,-1
  984 993 l 1,8,9
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1p1 u2
 EndChar
 
@@ -39057,7 +39057,7 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,97,-1
  984 993 l 1,8,9
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" s1xx l3
 Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" s1 l4
 EndChar
@@ -39339,7 +39339,7 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,92,-1
  984 993 l 1,44,45
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx s1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx s1
 EndChar
@@ -39539,7 +39539,7 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,124,-1
  984 993 l 1,76,77
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1s1 u2
 EndChar
 
@@ -40664,7 +40664,7 @@ SplineSet
  1103 64 l 2,136,16
  1030 64 1030 64 1030 8 c 128,-1,17
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" lh xx lh
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx lh
 EndChar
@@ -41165,7 +41165,7 @@ SplineSet
  716 138.718 716 138.718 633 77 c 1,105,106
  686 44.1905 686 44.1905 686 -49 c 1,28,29
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx k1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1
 EndChar
@@ -41244,7 +41244,7 @@ SplineSet
  280 492.104 280 492.104 371 494 c 1,88,-1
  415 494 l 1,34,35
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx ch1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx ch1
 EndChar
@@ -41411,7 +41411,7 @@ SplineSet
  682.51 12.7764 l 1,109,-1
  687.51 12.7764 l 2,63,64
 EndSplineSet
-LCarets2: 2 0 0 
+LCarets2: 2 0 0
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx s1
 Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx s1
 EndChar
@@ -41718,51 +41718,51 @@ EndChar
 
 StartChar: l4
 Encoding: 603 -1 599
-Width: 1094
+Width: 98
 GlyphClass: 3
-Flags: W
+Flags: WO
 LayerCount: 2
 Back
 Fore
 SplineSet
-444 -360 m 2,0,1
- 444 -391 444 -391 471 -391 c 128,-1,2
- 498 -391 498 -391 498 -360 c 2,3,-1
- 498 -271 l 2,4,5
- 498 -240 498 -240 471 -240 c 128,-1,6
- 444 -240 444 -240 444 -271 c 2,7,-1
- 444 -360 l 2,0,1
-862 -396 m 128,-1,9
- 917 -396 917 -396 917 -345 c 2,10,-1
- 917 -19 l 1,11,-1
- 1067 -19 l 1,12,-1
- 1067 -336 l 2,13,14
- 1067 -469 1067 -469 862 -469 c 0,15,16
- 737.679 -469 737.679 -469 697.84 -417.5 c 128,-1,17
- 658 -366 658 -366 658 -330 c 2,18,-1
- 658 -182 l 2,19,20
- 658 -123.714 658 -123.714 628.5 -106.857 c 128,-1,21
- 599 -90 599 -90 581 -90 c 2,22,-1
- 524 -90 l 2,23,24
- 443 -90 443 -90 443 -165 c 0,25,26
- 443 -168 443 -168 443.5 -170.5 c 128,-1,27
- 444 -173 444 -173 456.6 -169.5 c 128,-1,28
- 469.2 -166 469.2 -166 501 -166 c 0,29,30
- 611 -166 611 -166 611 -285 c 2,31,-1
- 611 -341 l 2,32,33
- 611 -464 611 -464 462 -464 c 0,34,35
- 357.959 -464 357.959 -464 324.98 -413.5 c 128,-1,36
- 292 -363 292 -363 292 -331 c 2,37,-1
- 292 -176 l 2,38,39
- 292 -62.9324 292 -62.9324 430 -27.5 c 0,40,41
- 467 -18 467 -18 502 -18 c 2,42,-1
- 605 -18 l 2,43,44
- 733.617 -18 733.617 -18 788.5 -107 c 0,45,46
- 807 -137 807 -137 807 -176 c 2,47,-1
- 807 -341 l 2,48,8
- 807 -396 807 -396 862 -396 c 128,-1,9
+-529 -360 m 2,0,1
+ -529 -391 -529 -391 -502 -391 c 128,-1,2
+ -475 -391 -475 -391 -475 -360 c 2,3,-1
+ -475 -271 l 2,4,5
+ -475 -240 -475 -240 -502 -240 c 128,-1,6
+ -529 -240 -529 -240 -529 -271 c 2,7,-1
+ -529 -360 l 2,0,1
+-111 -396 m 128,-1,9
+ -56 -396 -56 -396 -56 -345 c 2,10,-1
+ -56 -19 l 1,11,-1
+ 94 -19 l 1,12,-1
+ 94 -336 l 2,13,14
+ 94 -469 94 -469 -111 -469 c 0,15,16
+ -235.321289062 -469 -235.321289062 -469 -275.16015625 -417.5 c 128,-1,17
+ -315 -366 -315 -366 -315 -330 c 2,18,-1
+ -315 -182 l 2,19,20
+ -315 -123.713867188 -315 -123.713867188 -344.5 -106.857421875 c 128,-1,21
+ -374 -90 -374 -90 -392 -90 c 2,22,-1
+ -449 -90 l 2,23,24
+ -530 -90 -530 -90 -530 -165 c 0,25,26
+ -530 -168 -530 -168 -529.5 -170.5 c 128,-1,27
+ -529 -173 -529 -173 -516.400390625 -169.5 c 128,-1,28
+ -503.799804688 -166 -503.799804688 -166 -472 -166 c 0,29,30
+ -362 -166 -362 -166 -362 -285 c 2,31,-1
+ -362 -341 l 2,32,33
+ -362 -464 -362 -464 -511 -464 c 0,34,35
+ -615.041015625 -464 -615.041015625 -464 -648.01953125 -413.5 c 128,-1,36
+ -681 -363 -681 -363 -681 -331 c 2,37,-1
+ -681 -176 l 2,38,39
+ -681 -62.9326171875 -681 -62.9326171875 -543 -27.5 c 0,40,41
+ -506 -18 -506 -18 -471 -18 c 2,42,-1
+ -368 -18 l 2,43,44
+ -239.3828125 -18 -239.3828125 -18 -184.5 -107 c 0,45,46
+ -166 -137 -166 -137 -166 -176 c 2,47,-1
+ -166 -341 l 2,48,8
+ -166 -396 -166 -396 -111 -396 c 128,-1,9
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 5 subtable" xx l3
 Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 4 subtable" l3 xx
 EndChar
@@ -41844,7 +41844,7 @@ SplineSet
  1358 1272 1358 1272 1351 1300 c 1,89,-1
  1514 1300 l 1,64,65
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" k1 xx
 EndChar
 
@@ -43781,7 +43781,7 @@ SplineSet
  1138 1272 1138 1272 1131 1300 c 1,48,-1
  1294 1300 l 1,23,24
 EndSplineSet
-LCarets2: 1 0 
+LCarets2: 1 0
 Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" l3 xx
 EndChar
 
