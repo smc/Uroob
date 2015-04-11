@@ -3,8 +3,8 @@ FontName: Uroob
 FullName: Uroob
 FamilyName: Uroob
 Weight: Bold
-Copyright: Digitized data copyright(c) 2015 Hussain KH, Kavya Manohar, Rajeesh K Nambiar, Santhosh Thottingal, Swathanthra Malayalam Computing (http://smc.org.in)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nDeveloped with the financial support from \nInternational Centre for Free and Open Source Software(ICFOSS),\nGovt of Kerala in 2014-15
-UComments: "Dedicated to Uroob (P.C. Kuttykrishnan, celebrating the 50th year of Ummachu"
+Copyright: Digitized data copyright(c) 2015 Hussain KH, Kavya Manohar, Rajeesh K Nambiar, Santhosh Thottingal, Swathanthra Malayalam Computing (http://smc.org.in)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\n\nDeveloped with the financial support from \nInternational Centre for Free and Open Source Software(ICFOSS),\nGovt of Kerala in 2014-15\n\nDedicated to Uroob (P.C. Kuttykrishnan), celebrating the 60th anniversary of Ummachu
+UComments: "Dedicated to Uroob (P.C. Kuttykrishnan), celebrating the 60th anniversary of Ummachu"
 Version: 1
 DefaultBaseFilename: Uroob
 ItalicAngle: 0
@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1428734707
+ModificationTime: 1428736910
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -20040,6 +20040,7 @@ SplineSet
  1421.72 977 1421.72 977 1471 921 c 1,117,118
  1513.75 978 1513.75 978 1680 978 c 1,20,-1
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1th1 u1
 EndChar
 
