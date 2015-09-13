@@ -23,7 +23,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418347145
-ModificationTime: 1432890500
+ModificationTime: 1442138247
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -53,527 +53,11 @@ OS2SupXOff: 0
 OS2SupYOff: 477
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
-OS2CapHeight: 0
-OS2XHeight: 0
 OS2Vendor: 'SMC '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80800001.00002002.00000000.00000000
-Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam lookup 0" { "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable"  } ['akhn' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'akhn' Akhand in Malay+AQEA-lam2 lookup 1" { "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable"  } ['akhn' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 2" { "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 2 subtable"  } ['pref' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "'half' Half Forms in Malay+AQEA-lam lookup 3" { "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable"  } ['half' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam lookup 4" { "'blwf' Below Base Forms in Malay+AQEA-lam lookup 4 subtable"  } ['blwf' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 5" { "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 5 subtable"  } ['blwf' ('mlm2' <'dflt' > ) ]
-Lookup: 4 0 0 "'blws' Below Base Substitutions lookup 6" { "'blws' Below Base Substitutions lookup 6 subtable"  } ['blws' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7" { "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable"  } ['pres' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8" { "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable"  } ['pres' ('mlm2' <'dflt' > ) ]
-Lookup: 4 256 0 "'psts' Post Base Substitutions lookup 9" { "'psts' Post Base Substitutions lookup 9 subtable"  } ['psts' ('mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 10" { "'haln' Halant Forms in Malay+AQEA-lam lookup 10 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11" { "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
-Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 12" { "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 12 subtable"  } ['pstf' ('mlm2' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > 'mlm2' <'dflt' > 'mlym' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-KernClass2: 9 2 "'kern' Horizontal Kerning lookup 0 subtable"
- 70 k1th1r3 k1l3 k1shm1 k3th3th4r3 ch4r3 th1th1r3 th3th4r3 n1th1r3 n1th4r3
- 14 k1t1 k1n1 k1m1
- 4 k3k3
- 23 k1k1r3 k1s1 k1rhrh k3r3
- 6 k1t1r3
- 11 k1shnh k3l3
- 15 k1nh k4n1 ch2r3
- 13 ch1ch1 ch1ch2
- 12 y2 y2u1 y2u2
- 0 {} 0 {} 0 {} 100 {} 0 {} -10 {} 0 {} 80 {} 0 {} 130 {} 0 {} 50 {} 0 {} 200 {} 0 {} 180 {} 0 {} 200 {}
-TtTable: prep
-PUSHW_1
- 0
-CALL
-SVTCA[y-axis]
-PUSHW_3
- 1
- 5
- 2
-CALL
-SVTCA[x-axis]
-PUSHW_3
- 6
- 2
- 2
-CALL
-SVTCA[x-axis]
-PUSHW_8
- 6
- 62
- 52
- 40
- 29
- 19
- 0
- 8
-CALL
-PUSHW_8
- 7
- 67
- 52
- 40
- 29
- 19
- 0
- 8
-CALL
-SVTCA[y-axis]
-PUSHW_8
- 1
- 593
- 486
- 378
- 270
- 162
- 0
- 8
-CALL
-PUSHW_8
- 2
- 161
- 132
- 103
- 74
- 44
- 0
- 8
-CALL
-PUSHW_8
- 3
- 90
- 74
- 57
- 41
- 19
- 0
- 8
-CALL
-PUSHW_8
- 4
- 63
- 52
- 40
- 29
- 19
- 0
- 8
-CALL
-PUSHW_8
- 5
- 62
- 52
- 40
- 29
- 19
- 0
- 8
-CALL
-SVTCA[y-axis]
-PUSHW_3
- 8
- 4
- 7
-CALL
-PUSHW_1
- 0
-DUP
-RCVT
-RDTG
-ROUND[Black]
-RTG
-WCVTP
-EndTTInstrs
-TtTable: fpgm
-PUSHW_1
- 0
-FDEF
-MPPEM
-PUSHW_1
- 9
-LT
-IF
-PUSHB_2
- 1
- 1
-INSTCTRL
-EIF
-PUSHW_1
- 511
-SCANCTRL
-PUSHW_1
- 68
-SCVTCI
-PUSHW_2
- 9
- 3
-SDS
-SDB
-ENDF
-PUSHW_1
- 1
-FDEF
-DUP
-DUP
-RCVT
-ROUND[Black]
-WCVTP
-PUSHB_1
- 1
-ADD
-ENDF
-PUSHW_1
- 2
-FDEF
-PUSHW_1
- 1
-LOOPCALL
-POP
-ENDF
-PUSHW_1
- 3
-FDEF
-DUP
-GC[cur]
-PUSHB_1
- 3
-CINDEX
-GC[cur]
-GT
-IF
-SWAP
-EIF
-DUP
-ROLL
-DUP
-ROLL
-MD[grid]
-ABS
-ROLL
-DUP
-GC[cur]
-DUP
-ROUND[Grey]
-SUB
-ABS
-PUSHB_1
- 4
-CINDEX
-GC[cur]
-DUP
-ROUND[Grey]
-SUB
-ABS
-GT
-IF
-SWAP
-NEG
-ROLL
-EIF
-MDAP[rnd]
-DUP
-PUSHB_1
- 0
-GTEQ
-IF
-ROUND[Black]
-DUP
-PUSHB_1
- 0
-EQ
-IF
-POP
-PUSHB_1
- 64
-EIF
-ELSE
-ROUND[Black]
-DUP
-PUSHB_1
- 0
-EQ
-IF
-POP
-PUSHB_1
- 64
-NEG
-EIF
-EIF
-MSIRP[no-rp0]
-ENDF
-PUSHW_1
- 4
-FDEF
-DUP
-GC[cur]
-PUSHB_1
- 4
-CINDEX
-GC[cur]
-GT
-IF
-SWAP
-ROLL
-EIF
-DUP
-GC[cur]
-DUP
-ROUND[White]
-SUB
-ABS
-PUSHB_1
- 4
-CINDEX
-GC[cur]
-DUP
-ROUND[White]
-SUB
-ABS
-GT
-IF
-SWAP
-ROLL
-EIF
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-ENDF
-PUSHW_1
- 5
-FDEF
-MPPEM
-DUP
-PUSHB_1
- 3
-MINDEX
-LT
-IF
-LTEQ
-IF
-PUSHB_1
- 128
-WCVTP
-ELSE
-PUSHB_1
- 64
-WCVTP
-EIF
-ELSE
-POP
-POP
-DUP
-RCVT
-PUSHB_1
- 192
-LT
-IF
-PUSHB_1
- 192
-WCVTP
-ELSE
-POP
-EIF
-EIF
-ENDF
-PUSHW_1
- 6
-FDEF
-DUP
-DUP
-RCVT
-ROUND[Black]
-WCVTP
-PUSHB_1
- 1
-ADD
-DUP
-DUP
-RCVT
-RDTG
-ROUND[Black]
-RTG
-WCVTP
-PUSHB_1
- 1
-ADD
-ENDF
-PUSHW_1
- 7
-FDEF
-PUSHW_1
- 6
-LOOPCALL
-ENDF
-PUSHW_1
- 8
-FDEF
-MPPEM
-DUP
-PUSHB_1
- 3
-MINDEX
-GTEQ
-IF
-PUSHB_1
- 64
-ELSE
-PUSHB_1
- 0
-EIF
-ROLL
-ROLL
-DUP
-PUSHB_1
- 3
-MINDEX
-GTEQ
-IF
-SWAP
-POP
-PUSHB_1
- 128
-ROLL
-ROLL
-ELSE
-ROLL
-SWAP
-EIF
-DUP
-PUSHB_1
- 3
-MINDEX
-GTEQ
-IF
-SWAP
-POP
-PUSHW_1
- 192
-ROLL
-ROLL
-ELSE
-ROLL
-SWAP
-EIF
-DUP
-PUSHB_1
- 3
-MINDEX
-GTEQ
-IF
-SWAP
-POP
-PUSHW_1
- 256
-ROLL
-ROLL
-ELSE
-ROLL
-SWAP
-EIF
-DUP
-PUSHB_1
- 3
-MINDEX
-GTEQ
-IF
-SWAP
-POP
-PUSHW_1
- 320
-ROLL
-ROLL
-ELSE
-ROLL
-SWAP
-EIF
-DUP
-PUSHW_1
- 3
-MINDEX
-GTEQ
-IF
-PUSHB_1
- 3
-CINDEX
-RCVT
-PUSHW_1
- 384
-LT
-IF
-SWAP
-POP
-PUSHW_1
- 384
-SWAP
-POP
-ELSE
-PUSHB_1
- 3
-CINDEX
-RCVT
-SWAP
-POP
-SWAP
-POP
-EIF
-ELSE
-POP
-EIF
-WCVTP
-ENDF
-PUSHW_1
- 9
-FDEF
-MPPEM
-GTEQ
-IF
-RCVT
-WCVTP
-ELSE
-POP
-POP
-EIF
-ENDF
-EndTTInstrs
-ShortTable: cvt  16
-  42
-  19
-  70
-  126
-  180
-  184
-  184
-  170
-  0
-  27
-  -443
-  2
-  922
-  20
-  1356
-  28
-EndShort
-ShortTable: maxp 16
-  1
-  0
-  793
-  233
-  9
-  124
-  5
-  1
-  0
-  0
-  10
-  0
-  512
-  245
-  2
-  1
-EndShort
 LangName: 1033 "" "" "" "" "" "1" "" "" "SMC" "Hussain K H" "" "" "" "Digitized data copyright(c) 2015 Hussain KH, Kavya Manohar, Rajeesh K Nambiar, Santhosh Thottingal, Swathanthra Malayalam Computing (http://smc.org.in) with Reserved Font Name Uroob.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAA------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: Custom
 Compacted: 1
@@ -582,7 +66,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 34 34 12
+WinInfo: 42 42 14
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -604,7 +88,6 @@ Width: 602
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 512 0 m 1,0,-1
@@ -627,8 +110,6 @@ VWidth: 2457
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: nonmarkingreturn
@@ -637,8 +118,6 @@ Width: 466
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: NULL
@@ -648,8 +127,6 @@ Width: 0
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: CR.001
@@ -658,8 +135,6 @@ Width: 682
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: space
@@ -668,8 +143,6 @@ Width: 566
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
-Fore
 EndChar
 
 StartChar: exclam
@@ -678,7 +151,6 @@ Width: 309
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 129 0 m 1,0,-1
@@ -700,7 +172,6 @@ Width: 397
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 397 922 m 1,0,-1
@@ -719,7 +190,6 @@ Width: 923
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 428 594 m 1,0,-1
@@ -765,7 +235,6 @@ Width: 801
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 502 127 m 1,0,1
@@ -808,7 +277,6 @@ Width: 1017
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 808 170 m 2,0,1
@@ -859,7 +327,6 @@ Width: 760
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 466 117 m 2,0,1
@@ -906,7 +373,6 @@ Width: 397
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 173 1323 m 1,0,-1
@@ -923,7 +389,6 @@ Width: 451
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 309 124 m 2,0,1
@@ -945,7 +410,6 @@ Width: 451
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 117 1153 m 1,0,1
@@ -967,7 +431,6 @@ Width: 613
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 1290 m 1,0,-1
@@ -1004,7 +467,6 @@ Width: 733
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 733 251 m 1,0,-1
@@ -1029,7 +491,6 @@ Width: 397
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 367 110 m 1,0,-1
@@ -1046,7 +507,6 @@ Width: 919
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 117 301 m 1,0,-1
@@ -1063,7 +523,6 @@ Width: 300
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 117 0 m 1,0,-1
@@ -1080,7 +539,6 @@ Width: 804
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 804 1080 m 1,0,-1
@@ -1097,7 +555,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 509 0 m 2,0,-1
@@ -1131,7 +588,6 @@ Width: 404
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 404 0 m 1,0,-1
@@ -1150,7 +606,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 709 692 m 2,0,1
@@ -1180,7 +635,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 463 587 m 2,0,1
@@ -1223,7 +677,6 @@ Width: 787
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 114 191 m 1,0,-1
@@ -1252,7 +705,6 @@ Width: 711
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 362 511 m 2,0,1
@@ -1289,7 +741,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 538 1003 m 2,0,1
@@ -1331,7 +782,6 @@ Width: 713
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 114 883 m 1,0,-1
@@ -1351,7 +801,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 709 143 m 2,0,1
@@ -1399,7 +848,6 @@ Width: 709
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 294 416 m 2,0,1
@@ -1443,7 +891,6 @@ Width: 300
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 117 430 m 1,0,-1
@@ -1465,7 +912,6 @@ Width: 397
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 367 110 m 1,0,1
@@ -1487,7 +933,6 @@ Width: 881
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 305 372 m 1,0,1
@@ -1507,7 +952,6 @@ Width: 819
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 117 280 m 1,0,-1
@@ -1529,7 +973,6 @@ Width: 881
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 695 372 m 1,0,-1
@@ -1549,7 +992,6 @@ Width: 658
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 253 394 m 1,0,1
@@ -1583,7 +1025,6 @@ Width: 1186
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 709.5 616.4 m 128,-1,1
@@ -1640,7 +1081,6 @@ Width: 1068
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 533 953 m 1,0,-1
@@ -1665,7 +1105,6 @@ Width: 951
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 547 198 m 2,0,1
@@ -1700,7 +1139,6 @@ Width: 1055
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1035 509 m 1,0,1
@@ -1729,7 +1167,6 @@ Width: 1001
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 756 627 m 128,-1,1
@@ -1754,7 +1191,6 @@ Width: 898
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 59 0 m 1,0,-1
@@ -1779,7 +1215,6 @@ Width: 846
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 253 1056 m 1,0,-1
@@ -1802,7 +1237,6 @@ Width: 1132
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 875 838 m 1,0,1
@@ -1836,7 +1270,6 @@ Width: 977
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 730 0 m 1,0,-1
@@ -1861,7 +1294,6 @@ Width: 258
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 73 0 m 1,0,-1
@@ -1878,7 +1310,6 @@ Width: 737
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 251 348 m 2,0,1
@@ -1904,7 +1335,6 @@ Width: 967
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 257 0 m 1,0,-1
@@ -1929,7 +1359,6 @@ Width: 803
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 59 0 m 1,0,-1
@@ -1948,7 +1377,6 @@ Width: 1187
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 937 0 m 1,0,-1
@@ -1974,7 +1402,6 @@ Width: 1008
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 259 0 m 1,0,-1
@@ -1997,7 +1424,6 @@ Width: 1193
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 351 304 m 128,-1,1
@@ -2027,7 +1453,6 @@ Width: 916
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 500 703 m 2,0,1
@@ -2055,7 +1480,6 @@ Width: 1181
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 857 306 m 1,0,1
@@ -2091,7 +1515,6 @@ Width: 993
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 549 711 m 2,0,1
@@ -2123,7 +1546,6 @@ Width: 953
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 464 1078 m 0,0,1
@@ -2157,7 +1579,6 @@ Width: 933
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 571 1056 m 1,0,-1
@@ -2178,7 +1599,6 @@ Width: 973
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 491.5 176 m 128,-1,1
@@ -2203,7 +1623,6 @@ Width: 998
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 606 0 m 1,0,-1
@@ -2223,7 +1642,6 @@ Width: 1447
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1147 0 m 1,0,-1
@@ -2249,7 +1667,6 @@ Width: 1016
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 778 0 m 1,0,-1
@@ -2274,7 +1691,6 @@ Width: 1052
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 629 0 m 1,0,-1
@@ -2296,7 +1712,6 @@ Width: 928
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 25 0 m 1,0,-1
@@ -2319,7 +1734,6 @@ Width: 478
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 65 -342 m 1,0,-1
@@ -2340,7 +1754,6 @@ Width: 741
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 43 1230 m 1,0,-1
@@ -2357,7 +1770,6 @@ Width: 464
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 28 -342 m 1,0,-1
@@ -2378,7 +1790,6 @@ Width: 798
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 623 600 m 1,0,-1
@@ -2398,7 +1809,6 @@ Width: 833
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 81 243 m 1,0,-1
@@ -2415,7 +1825,6 @@ Width: 458
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 241 1238 m 1,0,-1
@@ -2432,7 +1841,6 @@ Width: 849
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 228 254 m 0,0,1
@@ -2473,7 +1881,6 @@ Width: 840
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 422 757 m 128,-1,1
@@ -2506,7 +1913,6 @@ Width: 788
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 756 363 m 1,0,1
@@ -2531,7 +1937,6 @@ Width: 835
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 425.5 167 m 0,0,1
@@ -2562,7 +1967,6 @@ Width: 839
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 596 554 m 1,0,1
@@ -2590,7 +1994,6 @@ Width: 461
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 135 1028 m 2,0,1
@@ -2619,7 +2022,6 @@ Width: 815
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 240 440 m 128,-1,1
@@ -2654,7 +2056,6 @@ Width: 751
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 410 762 m 0,0,1
@@ -2680,7 +2081,6 @@ Width: 287
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 242 -1 m 1,0,-1
@@ -2702,7 +2102,6 @@ Width: 287
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 238 -140 m 2,0,1
@@ -2728,7 +2127,6 @@ Width: 758
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 235 0 m 1,0,-1
@@ -2753,7 +2151,6 @@ Width: 287
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 88 0 m 5,0,-1
@@ -2770,7 +2167,6 @@ Width: 1178
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 500 609 m 2,0,1
@@ -2804,7 +2200,6 @@ Width: 751
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 408 744 m 0,0,1
@@ -2830,7 +2225,6 @@ Width: 837
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 600 451 m 128,-1,1
@@ -2856,7 +2250,6 @@ Width: 827
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 596 439.5 m 0,0,1
@@ -2887,7 +2280,6 @@ Width: 829
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 424 145 m 0,0,1
@@ -2918,7 +2310,6 @@ Width: 489
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 214 825 m 1,0,1
@@ -2941,7 +2332,6 @@ Width: 751
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 707 262 m 0,0,1
@@ -2970,7 +2360,6 @@ Width: 459
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 295 202 m 2,0,1
@@ -3000,7 +2389,6 @@ Width: 752
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 234 285 m 2,0,1
@@ -3027,7 +2415,6 @@ Width: 784
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 476 0 m 1,0,-1
@@ -3047,7 +2434,6 @@ Width: 1124
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 875 0 m 1,0,-1
@@ -3073,7 +2459,6 @@ Width: 756
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 543 0 m 1,0,-1
@@ -3098,7 +2483,6 @@ Width: 758
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 173 -155 m 0,0,1
@@ -3123,7 +2507,6 @@ Width: 751
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 52 0 m 1,0,-1
@@ -3146,7 +2529,6 @@ Width: 411
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 414 1245 m 1,0,1
@@ -3176,7 +2558,6 @@ Width: 290
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 271 1238 m 1,0,-1
@@ -3193,7 +2574,6 @@ Width: 411
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 -150 m 2,0,1
@@ -3223,7 +2603,6 @@ Width: 1077
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 446.5 431 m 128,-1,1
@@ -3252,7 +2631,6 @@ Width: 650
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 212 m 2,0,1
@@ -3282,7 +2660,6 @@ Width: 521
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 309 101 m 128,-1,1
@@ -3332,7 +2709,6 @@ Width: 1708
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 218 m 2,0,1
@@ -3416,7 +2792,6 @@ Width: 1969
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 663 554 m 2,0,1
@@ -3517,7 +2892,6 @@ Width: 1132
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 8 m 128,-1,1
@@ -3579,7 +2953,6 @@ Width: 2071
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1599 881 m 1,0,1
@@ -3677,7 +3050,6 @@ Width: 854
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 548 434 m 2,0,1
@@ -3728,7 +3100,6 @@ Width: 1771
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1301 881 m 1,0,1
@@ -3815,7 +3186,6 @@ Width: 1082
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 803 202 m 2,0,-1
@@ -3889,7 +3259,6 @@ Width: 1332
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 393 222 m 2,0,1
@@ -3955,7 +3324,6 @@ Width: 1431
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 864 0 m 1,0,1
@@ -4018,7 +3386,6 @@ Width: 1413
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 619 233 m 2,0,1
@@ -4088,7 +3455,6 @@ Width: 2232
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -4182,7 +3548,6 @@ Width: 874
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 653 m 1,0,1
@@ -4237,7 +3602,6 @@ Width: 1472
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1212 861 m 128,-1,1
@@ -4315,7 +3679,6 @@ Width: 1804
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1336 881 m 1,0,1
@@ -4406,7 +3769,6 @@ Width: 1275
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1090 391 m 2,0,1
@@ -4469,7 +3831,6 @@ Width: 1111
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 285 202 m 2,0,1
@@ -4517,7 +3878,6 @@ Width: 963
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -4556,7 +3916,6 @@ Width: 1540
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 605 562 m 2,0,1
@@ -4612,7 +3971,6 @@ Width: 1204
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1021 761 m 2,0,1
@@ -4677,7 +4035,6 @@ Width: 1060
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 705 309 m 2,0,1
@@ -4715,7 +4072,6 @@ Width: 1516
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1234 202 m 2,0,1
@@ -4779,7 +4135,6 @@ Width: 1114
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 247 m 2,0,1
@@ -4863,7 +4218,6 @@ Width: 1864
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1396 58 m 1,0,1
@@ -4934,7 +4288,6 @@ Width: 1720
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 710 915 m 1,0,1
@@ -5008,7 +4361,6 @@ Width: 681
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 307 773 m 2,0,-1
@@ -5051,7 +4403,6 @@ Width: 654
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 654 774 m 2,0,-1
@@ -5086,7 +4437,6 @@ Width: 1306
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 214 m 2,0,1
@@ -5133,7 +4483,6 @@ Width: 1452
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1016 776 m 2,0,1
@@ -5195,7 +4544,6 @@ Width: 1496
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 672 m 0,0,1
@@ -5255,7 +4603,6 @@ Width: 1193
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 930 125 m 1,0,1
@@ -5309,7 +4656,6 @@ Width: 998
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 132 m 1,0,-1
@@ -5341,7 +4687,6 @@ Width: 720
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 432 128 m 2,0,1
@@ -5381,7 +4726,6 @@ Width: 946
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 204 m 2,0,1
@@ -5419,7 +4763,6 @@ Width: 946
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 695 124 m 1,0,1
@@ -5462,7 +4805,6 @@ Width: 1008
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 617 248 m 2,0,1
@@ -5497,7 +4839,6 @@ Width: 1259
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 617 214 m 2,0,1
@@ -5543,7 +4884,6 @@ Width: 1443
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 271 202 m 2,0,1
@@ -5599,7 +4939,6 @@ Width: 800
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 553 533 m 2,0,1
@@ -5649,7 +4988,6 @@ Width: 802
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 283 132 m 1,0,-1
@@ -5691,7 +5029,6 @@ Width: 1233
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 693 49 m 1,0,1
@@ -5747,7 +5084,6 @@ Width: 821
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 385 842 m 2,0,1
@@ -5793,7 +5129,6 @@ Width: 669
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 212 m 2,0,1
@@ -5825,7 +5160,6 @@ Width: 992
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 670 315 m 1,0,-1
@@ -5858,7 +5192,6 @@ Width: 860
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 714 m 0,0,1
@@ -5921,7 +5254,6 @@ Width: 866
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 673 379 m 1,0,1
@@ -5977,7 +5309,6 @@ Width: 938
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 650 248 m 2,0,1
@@ -6013,7 +5344,6 @@ Width: 1147
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 961 484 m 2,0,1
@@ -6065,7 +5395,6 @@ Width: 1402
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1220 449 m 1,0,1
@@ -6123,7 +5452,6 @@ Width: 1292
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1107 764 m 2,0,1
@@ -6170,7 +5498,6 @@ Width: 1296
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 745 132 m 1,0,1
@@ -6220,7 +5547,6 @@ Width: 770
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 680 1232 m 0,0,1
@@ -6262,7 +5588,6 @@ Width: 592
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 334 861 m 0,0,1
@@ -6298,7 +5623,6 @@ Width: 283
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 29 1270 m 0,0,1
@@ -6325,7 +5649,6 @@ Width: 283
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 -62 1136 m 2,0,1
@@ -6361,7 +5684,6 @@ Width: 613
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 373 -295 m 1,0,1
@@ -6405,7 +5727,6 @@ Width: 613
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 292 -147 m 2,0,1
@@ -6461,7 +5782,6 @@ Width: 615
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 613 -64 m 2,0,1
@@ -6493,7 +5813,6 @@ Width: 812
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 574 126 m 1,0,1
@@ -6537,7 +5856,6 @@ Width: 725
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 349 970 m 1,0,-1
@@ -6594,7 +5912,6 @@ Width: 1618
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -6668,7 +5985,6 @@ Width: 2310
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 2310 876 m 2,0,-1
@@ -6756,7 +6072,6 @@ Width: 2126
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 2128 876 m 2,0,-1
@@ -6847,7 +6162,6 @@ Width: 956
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 486 881 m 1,0,1
@@ -6895,7 +6209,6 @@ Width: 31
 GlyphClass: 4
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 294 1300 m 1,0,1
@@ -6925,7 +6238,6 @@ Width: 956
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 486 881 m 1,0,1
@@ -6973,7 +6285,6 @@ Width: 1082
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 683.87109375 31.658203125 m 1,0,1
@@ -7078,7 +6389,6 @@ Width: 1788
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 334.5 158 m 0,0,1
@@ -7141,7 +6451,6 @@ Width: 1681
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -7210,10 +6519,6 @@ SplineSet
  1189 1259 1189 1259 1411.5 1259 c 128,-1,91
  1634 1259 1634 1259 1634 1043 c 0,16,17
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 10 subtable" nh xx ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" nh xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx ZWJ
 EndChar
 
 StartChar: n1cil
@@ -7222,7 +6527,6 @@ Width: 1179
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 879 202 m 2,0,1
@@ -7270,10 +6574,6 @@ SplineSet
  857.833 1127 857.833 1127 864 1053 c 1,62,-1
  687 1053 l 1,9,10
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 10 subtable" n1 xx ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" n1 xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx ZWJ
 EndChar
 
 StartChar: r3cil
@@ -7282,7 +6582,6 @@ Width: 848
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 547 202 m 2,0,1
@@ -7322,10 +6621,6 @@ SplineSet
  800 964 800 964 728 932 c 1,51,-1
  726 932 l 1,9,10
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 10 subtable" r3 xx ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" r3 xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" r3 xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" r3 xx ZWJ
 EndChar
 
 StartChar: l3cil
@@ -7334,7 +6629,6 @@ Width: 1455
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 204 m 2,0,1
@@ -7395,10 +6689,6 @@ SplineSet
  1411 1128 1411 1128 1411 1042.87 c 128,-1,83
  1411 957.739 1411 957.739 1337 932 c 1,20,21
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 10 subtable" l3 xx ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" l3 xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" l3 xx ZWJ
 EndChar
 
 StartChar: lhcil
@@ -7407,7 +6697,6 @@ Width: 1179
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 877 202 m 2,0,1
@@ -7456,10 +6745,6 @@ SplineSet
  1132 1134 1132 1134 1132 1088 c 0,64,65
  1132 955.423 1132 955.423 1045 932 c 1,8,9
 EndSplineSet
-Ligature2: "'haln' Halant Forms in Malay+AQEA-lam lookup 10 subtable" lh xx ZWJ
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" lh xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" lh xx ZWJ
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx ZWJ
 EndChar
 
 StartChar: ZWNJ
@@ -7468,7 +6753,6 @@ Width: 324
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 66 44 m 1,0,-1
@@ -7485,7 +6769,6 @@ Width: 324
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 224 1030 m 1,0,-1
@@ -7523,7 +6806,6 @@ Width: 1101
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 257 752 m 1,0,-1
@@ -7560,7 +6842,6 @@ Width: 956
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 718 686 m 1,0,1
@@ -7629,7 +6910,6 @@ Width: 306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 423 909 m 1,0,1
@@ -7645,8 +6925,6 @@ SplineSet
  423 909 l 1,0,1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable" r3 xx
-Ligature2: "'pref' Pre Base Forms in Malay+AQEA-lam2 lookup 2 subtable" xx r3
 EndChar
 
 StartChar: y2
@@ -7655,7 +6933,6 @@ Width: 405
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 291 929 m 1,0,-1
@@ -7685,8 +6962,6 @@ SplineSet
  291 929 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 12 subtable" xx y1
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable" y1 xx
 EndChar
 
 StartChar: y2u1
@@ -7695,7 +6970,6 @@ Width: 405
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 353 -385 m 2,0,1
@@ -7739,7 +7013,6 @@ SplineSet
  483 -123.444 483 -123.444 449 -182 c 1,8,9
 EndSplineSet
 LCarets2: 1 103
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y2 u1
 EndChar
 
 StartChar: y2u2
@@ -7748,7 +7021,6 @@ Width: 405
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 370 -365 m 128,-1,1
@@ -7800,7 +7072,6 @@ SplineSet
  483 -130.048 483 -130.048 443 -191 c 1,8,9
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y2 u2
 EndChar
 
 StartChar: v2
@@ -7809,7 +7080,6 @@ Width: 329
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 -122 -22 m 1,0,-1
@@ -7821,8 +7091,6 @@ SplineSet
  -122 -22 l 1,0,-1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam2 lookup 12 subtable" xx v1
-Ligature2: "'pstf' Post Base Forms in Malay+AQEA-lam lookup 11 subtable" v1 xx
 EndChar
 
 StartChar: NameMe_195550
@@ -7831,7 +7099,6 @@ Width: 1772
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1084 816 m 0,0,1
@@ -7882,7 +7149,6 @@ Width: 1288
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 329 118 m 0,0,1
@@ -7944,7 +7210,6 @@ SplineSet
  1286 527.882 1286 527.882 1286 438.926 c 128,-1,74
  1286 349.97 1286 349.97 1237 298 c 1,21,22
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1 u1
 EndChar
 
 StartChar: k1u2
@@ -7953,7 +7218,6 @@ Width: 1279
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 330 229 m 0,0,1
@@ -8026,7 +7290,6 @@ SplineSet
  100 213.923 100 213.923 100 302 c 2,92,-1
  100 479 l 2,21,22
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1 u2
 EndChar
 
 StartChar: k1r1
@@ -8035,7 +7298,6 @@ Width: 1265
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1079 289 m 1,0,-1
@@ -8101,7 +7363,6 @@ SplineSet
  280 212 l 2,73,74
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1 r1
 EndChar
 
 StartChar: k1k1
@@ -8110,7 +7371,6 @@ Width: 1509
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -8168,8 +7428,6 @@ SplineSet
  397 991 397 991 683 991 c 0,69,70
  816.5 991 816.5 991 876 914 c 1,28,29
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx k1
 EndChar
 
 StartChar: k1k1u1
@@ -8178,7 +7436,6 @@ Width: 1566
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -8246,7 +7503,6 @@ SplineSet
  1564 624 l 2,84,85
  1564 518.045 1564 518.045 1457 484 c 1,28,29
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1k1 u1
 EndChar
 
 StartChar: k1k1u2
@@ -8255,7 +7511,6 @@ Width: 1465
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 271 300 m 2,0,1
@@ -8337,7 +7592,6 @@ SplineSet
  873 976 873 976 971 976 c 2,104,-1
  1210 976 l 2,28,29
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1k1 u2
 EndChar
 
 StartChar: k1k1r1
@@ -8346,7 +7600,6 @@ Width: 1539
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -8420,7 +7673,6 @@ SplineSet
  397 991 397 991 683 991 c 0,94,95
  818.744 991 818.744 991 876 914 c 1,28,29
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1k1 r1
 EndChar
 
 StartChar: k1k1r3
@@ -8429,7 +7681,6 @@ Width: 1766
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 538 202 m 2,0,1
@@ -8500,9 +7751,6 @@ SplineSet
  1191.81 973 1191.81 973 1296 973 c 2,92,-1
  1523 973 l 2,28,29
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 k1k1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1k1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1k1 xx r3
 EndChar
 
 StartChar: k1t1
@@ -8511,7 +7759,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 317 161 m 0,0,1
@@ -8590,8 +7837,6 @@ SplineSet
  97 151.106 97 151.106 97 241 c 2,97,-1
  97 433 l 2,58,59
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx t1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx t1
 EndChar
 
 StartChar: k1t1r3
@@ -8600,7 +7845,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 317 161 m 0,0,1
@@ -8685,9 +7929,6 @@ SplineSet
  97 151.106 97 151.106 97 241 c 2,108,-1
  97 433 l 2,69,70
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 k1t1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1t1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1t1 xx r3
 EndChar
 
 StartChar: k1th1
@@ -8696,7 +7937,6 @@ Width: 2176
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 329 118 m 0,0,1
@@ -8780,8 +8020,6 @@ SplineSet
  1580.86 977 1580.86 977 1628 916 c 1,108,109
  1670.27 978 1670.27 978 1832 978 c 1,32,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx th1
 EndChar
 
 StartChar: k1th1r1
@@ -8790,7 +8028,6 @@ Width: 2198
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 212 m 2,0,1
@@ -8888,7 +8125,6 @@ SplineSet
  1934 977 l 2,128,129
  2100.24 977 2100.24 977 2167.5 855 c 0,30,31
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1th1 r1
 EndChar
 
 StartChar: k1th1r3
@@ -8897,7 +8133,6 @@ Width: 2431
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 589 118 m 0,0,1
@@ -8995,9 +8230,6 @@ SplineSet
  1715 977 l 2,129,130
  1838.62 977 1838.62 977 1888 916 c 1,30,31
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 k1th1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1th1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1th1 xx r3
 EndChar
 
 StartChar: k1n1
@@ -9006,7 +8238,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 317 161 m 0,0,1
@@ -9081,8 +8312,6 @@ SplineSet
  97 151.106 97 151.106 97 241 c 2,93,-1
  97 433 l 2,54,55
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx n1
 EndChar
 
 StartChar: k1r3
@@ -9091,7 +8320,6 @@ Width: 1534
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 589 118 m 0,0,1
@@ -9157,9 +8385,6 @@ SplineSet
  1056.27 -17 1056.27 -17 918.136 -17 c 128,-1,85
  780 -17 780 -17 729 58 c 1,21,22
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 k1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k1 r4
 EndChar
 
 StartChar: k1r3u1
@@ -9168,7 +8393,6 @@ Width: 1534
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1264 -504 m 128,-1,1
@@ -9250,7 +8474,6 @@ SplineSet
  1056.27 -17 1056.27 -17 918.136 -17 c 128,-1,106
  780 -17 780 -17 729 58 c 1,29,30
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1r3 u1
 EndChar
 
 StartChar: k1r3u2
@@ -9259,7 +8482,6 @@ Width: 1534
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1143 -378 m 2,0,1
@@ -9351,7 +8573,6 @@ SplineSet
  1056.27 -17 1056.27 -17 918.136 -17 c 128,-1,121
  780 -17 780 -17 729 58 c 1,29,30
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1r3 u2
 EndChar
 
 StartChar: k1l3
@@ -9360,7 +8581,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 474 -330 m 2,0,1
@@ -9447,8 +8667,6 @@ SplineSet
  97 151.106 97 151.106 97 241 c 2,109,-1
  97 433 l 2,70,71
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" k1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" k1 l4
 EndChar
 
 StartChar: k1l3u1
@@ -9457,7 +8675,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 466 -273 m 2,0,1
@@ -9559,7 +8776,6 @@ SplineSet
  97 151.106 97 151.106 97 241 c 2,129,-1
  97 433 l 2,90,91
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1l3 u1
 EndChar
 
 StartChar: k1l3u2
@@ -9568,7 +8784,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 466 -273 m 2,0,1
@@ -9677,7 +8892,6 @@ SplineSet
  935 633 l 1,138,-1
  968 633 l 2,99,100
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1l3 u2
 EndChar
 
 StartChar: k1sh
@@ -9686,7 +8900,6 @@ Width: 2039
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 329 118 m 0,0,1
@@ -9765,8 +8978,6 @@ SplineSet
  1739 865.308 1739 865.308 1739 774 c 2,97,-1
  1739 525 l 1,34,35
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx sh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh
 EndChar
 
 StartChar: k1shu1
@@ -9775,7 +8986,6 @@ Width: 2029
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 329 118 m 0,0,1
@@ -9872,7 +9082,6 @@ SplineSet
  2027 0 l 1,122,-1
  1997 0 l 1,44,45
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1sh u1
 EndChar
 
 StartChar: k1shu2
@@ -9881,7 +9090,6 @@ Width: 2039
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 329 118 m 0,0,1
@@ -9987,7 +9195,6 @@ SplineSet
  1739 865.308 1739 865.308 1739 774 c 2,134,-1
  1739 525 l 1,42,43
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k1sh u2
 EndChar
 
 StartChar: k1shnh
@@ -9996,7 +9203,6 @@ Width: 1925
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 315 157 m 0,0,1
@@ -10117,8 +9323,6 @@ SplineSet
  1655 543 l 1,90,91
 EndSplineSet
 LCarets2: 4 0 0 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx sh xx nh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx nh
 EndChar
 
 StartChar: k1shm1
@@ -10127,7 +9331,6 @@ Width: 1925
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 315 157 m 0,0,1
@@ -10229,8 +9432,6 @@ SplineSet
  1655 866.29 1655 866.29 1655 780 c 2,128,-1
  1655 543 l 1,67,68
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx sh xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx sh xx m1
 EndChar
 
 StartChar: k1s1
@@ -10239,7 +9440,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 317 161 m 0,0,1
@@ -10321,8 +9521,6 @@ SplineSet
  97 151.106 97 151.106 97 241 c 2,103,-1
  97 433 l 2,64,65
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx s1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx s1
 EndChar
 
 StartChar: k1rhrh
@@ -10331,7 +9529,6 @@ Width: 1207
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 317 161 m 0,0,1
@@ -10412,8 +9609,6 @@ SplineSet
  935 885.259 935 885.259 935 784 c 2,100,-1
  935 633 l 1,62,63
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k1 xx rh xx rh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k1 xx rh xx rh
 EndChar
 
 StartChar: k2u1
@@ -10422,7 +9617,6 @@ Width: 1144
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 285 198 m 2,0,1
@@ -10480,7 +9674,6 @@ SplineSet
  1140 0 l 1,73,-1
  1117 0 l 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k2 u1
 EndChar
 
 StartChar: k2u2
@@ -10489,7 +9682,6 @@ Width: 1169
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 285 198 m 2,0,1
@@ -10558,7 +9750,6 @@ SplineSet
  828 824 828 824 828 767 c 2,89,-1
  828 222 l 2,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k2 u2
 EndChar
 
 StartChar: k3u1
@@ -10567,7 +9758,6 @@ Width: 970
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 285 300 m 2,0,1
@@ -10610,7 +9800,6 @@ SplineSet
  285 865 285 865 285 786 c 2,54,-1
  285 300 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3 u1
 EndChar
 
 StartChar: k3u2
@@ -10619,7 +9808,6 @@ Width: 985
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 306 -52 m 2,0,1
@@ -10670,7 +9858,6 @@ SplineSet
  795 -52 795 -52 741 -52 c 2,67,-1
  306 -52 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3 u2
 EndChar
 
 StartChar: k3r1
@@ -10679,7 +9866,6 @@ Width: 971
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -10726,7 +9912,6 @@ SplineSet
  280 850 280 850 280 761 c 2,61,-1
  280 212 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3 r1
 EndChar
 
 StartChar: k3k3
@@ -10735,7 +9920,6 @@ Width: 910
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 405 -311 m 2,0,1
@@ -10791,8 +9975,6 @@ SplineSet
  272 862 272 862 272 777 c 2,72,-1
  272 266 l 2,35,36
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k3 xx k3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx k3
 EndChar
 
 StartChar: k3k3u2
@@ -10801,7 +9983,6 @@ Width: 910
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 810 -192 m 1,0,1
@@ -10872,7 +10053,6 @@ SplineSet
  272 862 272 862 272 777 c 2,93,-1
  272 266 l 2,56,57
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3k3 u2
 EndChar
 
 StartChar: k3th3
@@ -10881,7 +10061,6 @@ Width: 1059
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 951 488 m 1,0,1
@@ -10925,8 +10104,6 @@ SplineSet
  1060 628 l 2,57,58
  1060 534.714 1060 534.714 951 488 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k3 xx th3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx th3
 EndChar
 
 StartChar: k3th3th4
@@ -10935,7 +10112,6 @@ Width: 1693
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1510 765 m 2,0,1
@@ -10999,8 +10175,6 @@ SplineSet
  1510 196 1510 196 1510 216 c 2,86,-1
  1510 765 l 2,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k3 xx th3 xx th4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx th3 xx th4
 EndChar
 
 StartChar: k3n1
@@ -11009,7 +10183,6 @@ Width: 1302
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 878 915 m 1,0,1
@@ -11051,8 +10224,6 @@ SplineSet
  655 999 655 999 739.2 999 c 128,-1,53
  823.4 999 823.4 999 878 915 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k3 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx n1
 EndChar
 
 StartChar: k3n1u1
@@ -11061,7 +10232,6 @@ Width: 1504
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1217 202 m 2,0,1
@@ -11113,7 +10283,6 @@ SplineSet
  637 999 637 999 723.16 999 c 128,-1,67
  809.321 999 809.321 999 878 895 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3n1 u1
 EndChar
 
 StartChar: k3m1
@@ -11122,7 +10291,6 @@ Width: 1307
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 941 252 m 2,0,1
@@ -11161,8 +10329,6 @@ SplineSet
  280 860 280 860 280 771 c 2,48,-1
  280 202 l 2,10,11
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k3 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k3 xx m1
 EndChar
 
 StartChar: k3r3
@@ -11171,7 +10337,6 @@ Width: 1287
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 600 202 m 2,0,1
@@ -11215,9 +10380,6 @@ SplineSet
  600 860 600 860 600 771 c 2,59,-1
  600 202 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 k3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k3 r4
 EndChar
 
 StartChar: k3r3u1
@@ -11226,7 +10388,6 @@ Width: 1287
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 958 -398 m 2,0,1
@@ -11289,7 +10450,6 @@ SplineSet
  600 860 600 860 600 771 c 2,83,-1
  600 202 l 2,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3r3 u1
 EndChar
 
 StartChar: k3r3u2
@@ -11298,7 +10458,6 @@ Width: 1287
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 923 -328 m 2,0,1
@@ -11368,7 +10527,6 @@ SplineSet
  600 860 600 860 600 771 c 2,96,-1
  600 202 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3r3 u2
 EndChar
 
 StartChar: k3l3
@@ -11377,7 +10535,6 @@ Width: 910
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 351 -297 m 2,0,1
@@ -11445,8 +10602,6 @@ SplineSet
  272 862 272 862 272 777 c 2,88,-1
  272 266 l 2,51,52
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" k3xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" k3 l4
 EndChar
 
 StartChar: k3l3u1
@@ -11455,7 +10610,6 @@ Width: 910
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 333 -251 m 2,0,1
@@ -11538,7 +10692,6 @@ SplineSet
  272 266 l 2,69,70
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3l3 u1
 EndChar
 
 StartChar: k3l3u2
@@ -11547,7 +10700,6 @@ Width: 910
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 397 -276 m 128,-1,1
@@ -11635,7 +10787,6 @@ SplineSet
  272 862 272 862 272 777 c 2,115,-1
  272 266 l 2,78,79
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k3l3 u2
 EndChar
 
 StartChar: k4u1
@@ -11644,7 +10795,6 @@ Width: 1540
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1277 -237 m 2,0,1
@@ -11711,7 +10861,6 @@ SplineSet
  1541 0 l 1,81,-1
  1517 0 l 1,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k4 u1
 EndChar
 
 StartChar: k4u2
@@ -11720,7 +10869,6 @@ Width: 1540
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1202 -127 m 2,0,1
@@ -11797,7 +10945,6 @@ SplineSet
  605 768 605 768 605 671 c 2,95,-1
  605 562 l 2,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k4 u2
 EndChar
 
 StartChar: k4r1
@@ -11806,7 +10953,6 @@ Width: 1540
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 605 562 m 2,0,1
@@ -11875,7 +11021,6 @@ SplineSet
  856 449 l 1,86,-1
  1046 449 l 1,79,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" k4 r1
 EndChar
 
 StartChar: k4n1
@@ -11884,7 +11029,6 @@ Width: 1474
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1005 482 m 1,0,-1
@@ -11958,8 +11102,6 @@ SplineSet
  586 784.5 586 784.5 586 693 c 2,90,-1
  586 589 l 2,44,45
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" k4 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" k4 xx n1
 EndChar
 
 StartChar: k4r3
@@ -11968,7 +11110,6 @@ Width: 1797
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1306 449 m 1,0,-1
@@ -12031,9 +11172,6 @@ SplineSet
  865 768 865 768 865 671 c 2,79,-1
  865 562 l 2,10,11
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 k4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k4xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" k4 r4
 EndChar
 
 StartChar: ngu1
@@ -12042,7 +11180,6 @@ Width: 1240
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -12112,7 +11249,6 @@ SplineSet
  1234 200 l 2,92,93
  1234 96.2927 1234 96.2927 1153 39 c 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ng u1
 EndChar
 
 StartChar: ngu2
@@ -12121,7 +11257,6 @@ Width: 1237
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -12202,7 +11337,6 @@ SplineSet
  1234 200 l 2,108,109
  1234 117.963 1234 117.963 1181 63 c 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ng u2
 EndChar
 
 StartChar: ngk1
@@ -12211,7 +11345,6 @@ Width: 1263
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -12270,8 +11403,6 @@ SplineSet
  97 981 97 981 342 981 c 0,69,70
  444 981 444 981 498 911 c 1,28,29
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ng xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx k1
 EndChar
 
 StartChar: ngk1u1
@@ -12280,7 +11411,6 @@ Width: 1272
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -12346,7 +11476,6 @@ SplineSet
  1264 393 l 2,79,80
  1264 316.176 1264 316.176 1198 289 c 1,28,29
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ngk1 u1
 EndChar
 
 StartChar: ngk1u2
@@ -12355,7 +11484,6 @@ Width: 1271
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 284 308 m 2,0,1
@@ -12431,7 +11559,6 @@ SplineSet
  1269 15.2118 1269 15.2118 1114.5 -37.5 c 0,93,94
  1072 -52 1072 -52 1029 -52 c 2,28,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ngk1 u2
 EndChar
 
 StartChar: ngk1r1
@@ -12440,7 +11567,6 @@ Width: 1275
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 342 125 m 0,0,1
@@ -12513,7 +11639,6 @@ SplineSet
  443.556 981 443.556 981 498 911 c 1,30,31
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ngk1 r1
 EndChar
 
 StartChar: ngng
@@ -12522,7 +11647,6 @@ Width: 1802
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -12612,8 +11736,6 @@ SplineSet
  940.12 974 940.12 974 1093.37 974 c 128,-1,121
  1246.62 974 1246.62 974 1307 905 c 1,28,29
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ng xx ng
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ng xx ng
 EndChar
 
 StartChar: ngngu1
@@ -12622,7 +11744,6 @@ Width: 1830
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -12728,7 +11849,6 @@ SplineSet
  1830 210 l 2,141,142
  1830 104 1830 104 1748 42 c 1,36,37
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ngng u1
 EndChar
 
 StartChar: ngngu2
@@ -12737,7 +11857,6 @@ Width: 1830
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -12854,7 +11973,6 @@ SplineSet
  1830 210 l 2,157,158
  1830 123.034 1830 123.034 1771 62 c 1,36,37
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ngng u2
 EndChar
 
 StartChar: ch1u1
@@ -12863,7 +11981,6 @@ Width: 1061
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 787 -237 m 2,0,1
@@ -12912,7 +12029,6 @@ SplineSet
  1057 0 l 1,61,-1
  1027 0 l 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch1 u1
 EndChar
 
 StartChar: ch1u2
@@ -12921,7 +12037,6 @@ Width: 1091
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 766 -139 m 2,0,1
@@ -12980,7 +12095,6 @@ SplineSet
  705 662.333 705 662.333 705 562 c 2,75,-1
  705 329 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch1 u2
 EndChar
 
 StartChar: ch1ch1
@@ -12989,7 +12103,6 @@ Width: 1058
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 874 0 m 1,0,-1
@@ -13029,8 +12142,6 @@ SplineSet
  705 662.333 705 662.333 705 562 c 2,46,-1
  705 329 l 2,5,6
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ch1 xx ch1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch1 xx ch1
 EndChar
 
 StartChar: ch1ch1u1
@@ -13039,7 +12150,6 @@ Width: 1056
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 843 -488 m 128,-1,1
@@ -13096,7 +12206,6 @@ SplineSet
  1056 -267 l 1,70,-1
  1016 -267 l 1,15,16
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch1ch1 u1
 EndChar
 
 StartChar: ch1ch1u2
@@ -13105,7 +12214,6 @@ Width: 1059
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 721 -367 m 2,0,1
@@ -13173,7 +12281,6 @@ SplineSet
  705 662.333 705 662.333 705 562 c 2,85,-1
  705 329 l 2,13,14
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch1ch1 u2
 EndChar
 
 StartChar: ch1ch2
@@ -13182,7 +12289,6 @@ Width: 1019
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 867 -330 m 2,0,1
@@ -13257,8 +12363,6 @@ SplineSet
  678 664.293 678 664.293 678 569 c 2,95,-1
  678 347 l 2,59,60
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ch1 xx ch2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch1 xx ch2
 EndChar
 
 StartChar: ch2u1
@@ -13267,7 +12371,6 @@ Width: 1818
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1372 312 m 2,0,-1
@@ -13348,7 +12451,6 @@ SplineSet
  819 244.091 819 244.091 819 373 c 2,110,-1
  819 792 l 2,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch2 u1
 EndChar
 
 StartChar: ch2u2
@@ -13357,7 +12459,6 @@ Width: 1818
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1372 312 m 2,0,-1
@@ -13448,7 +12549,6 @@ SplineSet
  1816 440 l 2,123,124
  1816 352.692 1816 352.692 1748 337 c 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch2 u2
 EndChar
 
 StartChar: ch2r1
@@ -13457,7 +12557,6 @@ Width: 1804
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1357 232 m 2,0,-1
@@ -13540,7 +12639,6 @@ SplineSet
  1799 507 1799 507 1799 460 c 2,11,-1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch2 r1
 EndChar
 
 StartChar: ch2r3
@@ -13549,7 +12647,6 @@ Width: 2029
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1587 212 m 2,0,-1
@@ -13635,9 +12732,6 @@ SplineSet
  955 197 955 197 877 132 c 1,118,-1
  1089 132 l 1,11,12
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 ch2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch2xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch2 r4
 EndChar
 
 StartChar: ch3u1
@@ -13646,7 +12740,6 @@ Width: 1324
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 344 m 2,0,1
@@ -13737,7 +12830,6 @@ SplineSet
  605.686 990 605.686 990 667 916 c 1,119,120
  721.13 999 721.13 999 864 999 c 0,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3 u1
 EndChar
 
 StartChar: ch3u2
@@ -13746,7 +12838,6 @@ Width: 1358
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 339 m 2,0,1
@@ -13848,7 +12939,6 @@ SplineSet
  1378 373 1378 373 1378 309.833 c 128,-1,131
  1378 246.667 1378 246.667 1326 212 c 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3 u2
 EndChar
 
 StartChar: ch3r1
@@ -13857,7 +12947,6 @@ Width: 1327
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 258 m 2,0,1
@@ -13958,7 +13047,6 @@ SplineSet
  1022 -160 1022 -160 965 -160 c 2,132,-1
  898 -160 l 2,22,23
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3 r1
 EndChar
 
 StartChar: ch3ch3
@@ -13967,7 +13055,6 @@ Width: 2135
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 455 m 128,-1,1
@@ -14096,8 +13183,6 @@ SplineSet
  2129 489 l 2,169,170
  2129 421 2129 421 2059 361 c 1,67,68
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ch3 xx ch3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch3 xx ch3
 EndChar
 
 StartChar: ch3ch3u1
@@ -14106,7 +13191,6 @@ Width: 2346
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 455 m 128,-1,1
@@ -14248,7 +13332,6 @@ SplineSet
  1641.69 990 1641.69 990 1703 916 c 1,193,194
  1757.13 999 1757.13 999 1900 999 c 0,60,61
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3ch3 u1
 EndChar
 
 StartChar: ch3ch3u2
@@ -14257,7 +13340,6 @@ Width: 2367
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 455 m 128,-1,1
@@ -14410,7 +13492,6 @@ SplineSet
  2388 373 2388 373 2388 309.833 c 128,-1,205
  2388 246.667 2388 246.667 2336 212 c 1,62,63
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3ch3 u2
 EndChar
 
 StartChar: ch3ch3r1
@@ -14419,7 +13500,6 @@ Width: 2374
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 282 537 m 2,0,1
@@ -14573,7 +13653,6 @@ SplineSet
  1212.22 342.928 1212.22 342.928 1200.37 301.932 c 1,173,174
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch3ch3 r1
 EndChar
 
 StartChar: ch3nj
@@ -14582,7 +13661,6 @@ Width: 2738
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 455 m 128,-1,1
@@ -14699,8 +13777,6 @@ SplineSet
  1783.58 979 1783.58 979 1963.46 979 c 128,-1,161
  2143.33 979 2143.33 979 2184 918 c 1,25,26
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" ch3 xx nj
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" ch3 xx nj
 EndChar
 
 StartChar: ch3r3
@@ -14709,7 +13785,6 @@ Width: 1633
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 608 258 m 2,0,1
@@ -14812,9 +13887,6 @@ SplineSet
  1369 489 l 2,133,134
  1369 454.556 1369 454.556 1349 419 c 1,22,23
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 ch3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch3xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" ch3 r4
 EndChar
 
 StartChar: ch4u1
@@ -14823,7 +13895,6 @@ Width: 1864
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -14902,7 +13973,6 @@ SplineSet
  1529 208 l 1,108,109
  1539.22 116 1539.22 116 1605 116 c 0,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch4 u1
 EndChar
 
 StartChar: ch4u2
@@ -14911,7 +13981,6 @@ Width: 1864
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -15000,7 +14069,6 @@ SplineSet
  1529 208 l 1,123,124
  1539.22 116 1539.22 116 1605 116 c 0,17,18
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch4 u2
 EndChar
 
 StartChar: ch4r1
@@ -15009,7 +14077,6 @@ Width: 1864
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -15090,7 +14157,6 @@ SplineSet
  1539.22 116 1539.22 116 1605 116 c 0,9,10
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" ch4 r1
 EndChar
 
 StartChar: nju1
@@ -15099,7 +14165,6 @@ Width: 1746
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 115 m 128,-1,1
@@ -15179,7 +14244,6 @@ SplineSet
  1740 202 l 2,107,108
  1740 107.364 1740 107.364 1677 52 c 1,25,26
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nj u1
 EndChar
 
 StartChar: nju2
@@ -15188,7 +14252,6 @@ Width: 1753
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 115 m 128,-1,1
@@ -15281,7 +14344,6 @@ SplineSet
  1750 202 l 2,125,126
  1750 115 1750 115 1692 57 c 1,25,26
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nj u2
 EndChar
 
 StartChar: njch1
@@ -15290,7 +14352,6 @@ Width: 1981
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -15363,8 +14424,6 @@ SplineSet
  1105.73 973 1105.73 973 1147 936 c 1,94,95
  1176.74 974 1176.74 974 1236 974 c 2,17,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nj xx ch1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch1
 EndChar
 
 StartChar: njch1u1
@@ -15373,7 +14432,6 @@ Width: 1981
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -15463,7 +14521,6 @@ SplineSet
  1105.73 973 1105.73 973 1147 936 c 1,117,118
  1176.74 974 1176.74 974 1236 974 c 2,25,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" njch1 u1
 EndChar
 
 StartChar: njch1u2
@@ -15472,7 +14529,6 @@ Width: 1981
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -15573,7 +14629,6 @@ SplineSet
  1978 0 l 1,134,-1
  1953 0 l 1,25,26
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" njch1 u2
 EndChar
 
 StartChar: njch2
@@ -15582,7 +14637,6 @@ Width: 2497
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 212 m 2,0,1
@@ -15682,8 +14736,6 @@ SplineSet
  1545 155 1545 155 1508 132 c 1,135,-1
  1819 132 l 1,25,26
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nj xx ch2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch2
 EndChar
 
 StartChar: njch3
@@ -15692,7 +14744,6 @@ Width: 1980
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -15802,8 +14853,6 @@ SplineSet
  1979 489 l 2,140,141
  1979 421 1979 421 1909 361 c 1,30,31
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nj xx ch3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx ch3
 EndChar
 
 StartChar: njch3u1
@@ -15812,7 +14861,6 @@ Width: 2185
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -15938,7 +14986,6 @@ SplineSet
  1475.69 990 1475.69 990 1537 916 c 1,168,169
  1591.13 999 1591.13 999 1734 999 c 0,27,28
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" njch3 u1
 EndChar
 
 StartChar: njch3u2
@@ -15947,7 +14994,6 @@ Width: 2229
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -16081,7 +15127,6 @@ SplineSet
  2248 373 2248 373 2248 309.833 c 128,-1,177
  2248 246.667 2248 246.667 2196 212 c 1,26,27
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" njch3 u2
 EndChar
 
 StartChar: njnj
@@ -16090,7 +15135,6 @@ Width: 2543
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 115 m 128,-1,1
@@ -16179,8 +15223,6 @@ SplineSet
  1810.5 979 l 2,117,118
  1949.12 979 1949.12 979 1989 918 c 1,26,27
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nj xx nj
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nj xx nj
 EndChar
 
 StartChar: njnju1
@@ -16189,7 +15231,6 @@ Width: 2572
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 115 m 128,-1,1
@@ -16294,7 +15335,6 @@ SplineSet
  2570 202 l 2,139,140
  2570 120 2570 120 2512 64 c 1,34,35
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" njnj u1
 EndChar
 
 StartChar: njnju2
@@ -16303,7 +15343,6 @@ Width: 2579
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 115 m 128,-1,1
@@ -16421,7 +15460,6 @@ SplineSet
  2580 202 l 2,158,159
  2580 105.407 2580 105.407 2534 56 c 1,34,35
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" njnj u2
 EndChar
 
 StartChar: t1u1
@@ -16430,7 +15468,6 @@ Width: 681
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 437 -227 m 2,0,1
@@ -16488,7 +15525,6 @@ SplineSet
  681 202 l 2,8,9
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1 u1
 EndChar
 
 StartChar: t1u2
@@ -16497,7 +15533,6 @@ Width: 681
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 412 -127 m 2,0,1
@@ -16566,7 +15601,6 @@ SplineSet
  681 202 l 2,86,87
  681 125 681 125 625 69 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1 u2
 EndChar
 
 StartChar: t1t1
@@ -16575,7 +15609,6 @@ Width: 734
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 656 170 m 1,0,1
@@ -16619,8 +15652,6 @@ SplineSet
  733 305 l 2,55,56
  733 222.684 733 222.684 656 170 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" t1 xx t1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t1 xx t1
 EndChar
 
 StartChar: t1t1u1
@@ -16629,7 +15660,6 @@ Width: 734
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 553 -498 m 128,-1,1
@@ -16687,7 +15717,6 @@ SplineSet
  733 -82 l 2,75,76
  733 -173.15 733 -173.15 644 -231 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1t1 u1
 EndChar
 
 StartChar: t1t1u2
@@ -16696,7 +15725,6 @@ Width: 734
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 478 -405 m 128,-1,1
@@ -16767,7 +15795,6 @@ SplineSet
  733 -82 l 2,95,96
  733 -163.061 733 -163.061 662 -219 c 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1t1 u2
 EndChar
 
 StartChar: t1r3
@@ -16776,7 +15803,6 @@ Width: 1016
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 623 761 m 2,0,-1
@@ -16817,9 +15843,6 @@ SplineSet
  805 850 805 850 714 850 c 128,-1,55
  623 850 623 850 623 761 c 2,0,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 t1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t1 r4
 EndChar
 
 StartChar: t1r3u1
@@ -16828,7 +15851,6 @@ Width: 1016
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 767 -210 m 2,0,1
@@ -16886,7 +15908,6 @@ SplineSet
  1016 386 1016 386 1016 344 c 2,78,-1
  1016 222 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1r3 u1
 EndChar
 
 StartChar: t1r3u2
@@ -16895,7 +15916,6 @@ Width: 1016
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 726 -109 m 2,0,1
@@ -16962,7 +15982,6 @@ SplineSet
  1016 222 l 2,90,91
  1016 138 1016 138 951 81 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t1r3 u2
 EndChar
 
 StartChar: t2u1
@@ -16971,7 +15990,6 @@ Width: 677
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 477 -231 m 2,0,1
@@ -17012,7 +16030,6 @@ SplineSet
  674 202 l 2,48,49
  674 129.12 674 129.12 621 74 c 1,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t2 u1
 EndChar
 
 StartChar: t2u2
@@ -17021,7 +16038,6 @@ Width: 686
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 369 -208 m 2,0,1
@@ -17071,7 +16087,6 @@ SplineSet
  674 202 l 2,61,62
  674 120.516 674 120.516 607 60 c 1,35,36
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t2 u2
 EndChar
 
 StartChar: t3u1
@@ -17080,7 +16095,6 @@ Width: 1306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1017 -257 m 2,0,1
@@ -17140,7 +16154,6 @@ SplineSet
  1123 856.238 1123 856.238 1055 853 c 1,80,-1
  1055 988 l 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t3 u1
 EndChar
 
 StartChar: t3u2
@@ -17149,7 +16162,6 @@ Width: 1338
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1012 -137 m 2,0,1
@@ -17220,7 +16232,6 @@ SplineSet
  1336 202 l 2,93,94
  1336 105 1336 105 1262 42 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t3 u2
 EndChar
 
 StartChar: t3t3
@@ -17229,7 +16240,6 @@ Width: 1255
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1045 13 m 1,0,1
@@ -17304,8 +16314,6 @@ SplineSet
  1072 865 1072 865 1008 865 c 1,98,-1
  1008 993 l 1,43,44
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" t3 xx t3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx t3
 EndChar
 
 StartChar: t3t3u1
@@ -17314,7 +16322,6 @@ Width: 1255
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1045 -546 m 128,-1,1
@@ -17402,7 +16409,6 @@ SplineSet
  1072 865 1072 865 1008 865 c 1,116,-1
  1008 993 l 1,61,62
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t3t3 u1
 EndChar
 
 StartChar: t3t4
@@ -17411,7 +16417,6 @@ Width: 1255
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1055 -159 m 2,0,1
@@ -17496,8 +16501,6 @@ SplineSet
  1072 865 1072 865 1008 865 c 1,112,-1
  1008 993 l 1,59,60
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" t3 xx t4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" t3 xx t4
 EndChar
 
 StartChar: t3r3
@@ -17506,7 +16509,6 @@ Width: 1597
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1345 988 m 1,0,1
@@ -17564,9 +16566,6 @@ SplineSet
  1413 856.238 1413 856.238 1345 853 c 1,78,-1
  1345 988 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 t3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t3xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t3 r4
 EndChar
 
 StartChar: t3r3u1
@@ -17575,7 +16574,6 @@ Width: 1597
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1228 -414 m 2,0,1
@@ -17653,7 +16651,6 @@ SplineSet
  1413 856.238 1413 856.238 1345 853 c 1,103,-1
  1345 988 l 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t3r3 u1
 EndChar
 
 StartChar: t3r3u2
@@ -17662,7 +16659,6 @@ Width: 1597
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1253 -368 m 2,0,1
@@ -17749,7 +16745,6 @@ SplineSet
  1413 856.238 1413 856.238 1345 853 c 1,119,-1
  1345 988 l 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t3r3 u2
 EndChar
 
 StartChar: t4u1
@@ -17758,7 +16753,6 @@ Width: 1452
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1167 -237 m 2,0,1
@@ -17825,7 +16819,6 @@ SplineSet
  1270 394 l 1,87,88
  1238.43 360 1238.43 360 1186 360 c 0,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t4 u1
 EndChar
 
 StartChar: t4u2
@@ -17834,7 +16827,6 @@ Width: 1452
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1102 -117 m 2,0,1
@@ -17913,7 +16905,6 @@ SplineSet
  1270 404 l 1,104,105
  1238.43 370 1238.43 370 1186 370 c 0,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" t4 u2
 EndChar
 
 StartChar: t4r3
@@ -17922,7 +16913,6 @@ Width: 1732
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1447 586 m 2,0,1
@@ -17988,9 +16978,6 @@ SplineSet
  1550 394 l 1,89,90
  1516 360 1516 360 1466 360 c 0,8,9
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 t4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t4xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" t4 r4
 EndChar
 
 StartChar: nhu1
@@ -17999,7 +16986,6 @@ Width: 1738
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18067,7 +17053,6 @@ SplineSet
  788.972 998 788.972 998 898.315 998 c 128,-1,88
  1007.66 998 1007.66 998 1089 925 c 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nh u1
 EndChar
 
 StartChar: nhu2
@@ -18076,7 +17061,6 @@ Width: 2002
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18158,7 +17142,6 @@ SplineSet
  788.972 998 788.972 998 898.315 998 c 128,-1,109
  1007.66 998 1007.66 998 1089 925 c 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nh u2
 EndChar
 
 StartChar: nht1
@@ -18167,7 +17150,6 @@ Width: 1703
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18242,8 +17224,6 @@ SplineSet
  1594 512 1594 512 1554 512 c 2,98,-1
  1507 513 l 1,8,9
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx t1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t1
 EndChar
 
 StartChar: nht1u1
@@ -18252,7 +17232,6 @@ Width: 1703
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18343,7 +17322,6 @@ SplineSet
  1594 512 1594 512 1554 512 c 2,120,-1
  1507 513 l 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nht1 u1
 EndChar
 
 StartChar: nht1u2
@@ -18352,7 +17330,6 @@ Width: 1703
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18454,7 +17431,6 @@ SplineSet
  1708 180 l 2,134,135
  1708 99 1708 99 1648 51 c 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nht1 u2
 EndChar
 
 StartChar: nht2
@@ -18463,7 +17439,6 @@ Width: 1496
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18543,8 +17518,6 @@ SplineSet
  1273 -268 l 2,87,88
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx t2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t2
 EndChar
 
 StartChar: nht3
@@ -18553,7 +17526,6 @@ Width: 2217
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18625,8 +17597,6 @@ SplineSet
  2033 856.238 2033 856.238 1965 853 c 1,96,-1
  1965 988 l 1,8,9
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx t3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t3
 EndChar
 
 StartChar: nht3u1
@@ -18635,7 +17605,6 @@ Width: 2217
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18723,7 +17692,6 @@ SplineSet
  2033 856.238 2033 856.238 1965 853 c 1,118,-1
  1965 988 l 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nht3 u1
 EndChar
 
 StartChar: nht3u2
@@ -18732,7 +17700,6 @@ Width: 2217
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18831,7 +17798,6 @@ SplineSet
  2216 192 l 2,132,133
  2216 95 2216 95 2140 37 c 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nht3 u2
 EndChar
 
 StartChar: nht4
@@ -18840,7 +17806,6 @@ Width: 2319
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -18922,8 +17887,6 @@ SplineSet
  2140 394 l 1,107,108
  2115.71 360 2115.71 360 2056 360 c 0,16,17
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx t4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx t4
 EndChar
 
 StartChar: nhnh
@@ -18932,7 +17895,6 @@ Width: 1430
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 528 -325 m 2,0,1
@@ -19039,8 +18001,6 @@ SplineSet
  748.647 1003 748.647 1003 842.772 1003 c 128,-1,140
  936.897 1003 936.897 1003 1002 944 c 1,68,69
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx nh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx nh
 EndChar
 
 StartChar: nhnhu1
@@ -19049,7 +18009,6 @@ Width: 1430
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 428 -321 m 2,0,1
@@ -19164,7 +18123,6 @@ SplineSet
  748.647 1003 748.647 1003 842.772 1003 c 128,-1,150
  936.897 1003 936.897 1003 1002 944 c 1,78,79
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nhnh u1
 EndChar
 
 StartChar: nhnhu2
@@ -19173,7 +18131,6 @@ Width: 1430
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 -286 m 2,0,1
@@ -19298,7 +18255,6 @@ SplineSet
  748.647 1003 748.647 1003 842.772 1003 c 128,-1,164
  936.897 1003 936.897 1003 1002 944 c 1,92,93
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nhnh u2
 EndChar
 
 StartChar: nhm1
@@ -19307,7 +18263,6 @@ Width: 1669
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -19380,8 +18335,6 @@ SplineSet
  781.15 997 781.15 997 895.259 997 c 128,-1,93
  1009.37 997 1009.37 997 1067 924 c 1,40,41
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" nh xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" nh xx m1
 EndChar
 
 StartChar: nhm1u1
@@ -19390,7 +18343,6 @@ Width: 1669
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -19481,7 +18433,6 @@ SplineSet
  781.15 997 781.15 997 895.259 997 c 128,-1,118
  1009.37 997 1009.37 997 1067 924 c 1,50,51
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nhm1 u1
 EndChar
 
 StartChar: nhm1u2
@@ -19490,7 +18441,6 @@ Width: 1669
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -19592,7 +18542,6 @@ SplineSet
  781.15 997 781.15 997 895.259 997 c 128,-1,134
  1009.37 997 1009.37 997 1067 924 c 1,48,49
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" nhm1 u2
 EndChar
 
 StartChar: th1u1
@@ -19601,7 +18550,6 @@ Width: 1134
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 544 312 m 2,0,1
@@ -19657,7 +18605,6 @@ SplineSet
  576.368 977 576.368 977 621 924 c 1,76,77
  660.789 978 660.789 978 813 978 c 1,11,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1 u1
 EndChar
 
 StartChar: th1u2
@@ -19666,7 +18613,6 @@ Width: 1208
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 544 312 m 2,0,1
@@ -19732,7 +18678,6 @@ SplineSet
  458 977 l 2,90,91
  576.368 977 576.368 977 621 924 c 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1 u2
 EndChar
 
 StartChar: th1r1
@@ -19741,7 +18686,6 @@ Width: 1241
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 228 m 2,0,1
@@ -19799,7 +18743,6 @@ SplineSet
  475 977 l 2,80,81
  598.619 977 598.619 977 648 916 c 1,9,10
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1 r1
 EndChar
 
 StartChar: th1th1
@@ -19808,7 +18751,6 @@ Width: 2076
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 634 115 m 128,-1,1
@@ -19882,8 +18824,6 @@ SplineSet
  1479.45 977 1479.45 977 1531 912 c 1,100,101
  1576.22 977 1576.22 977 1741 977 c 1,20,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th1
 EndChar
 
 StartChar: th1th1u1
@@ -19892,7 +18832,6 @@ Width: 2023
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 543 300 m 2,0,1
@@ -19978,7 +18917,6 @@ SplineSet
  1513.75 978 1513.75 978 1680 978 c 1,20,-1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1th1 u1
 EndChar
 
 StartChar: th1th1u2
@@ -19987,7 +18925,6 @@ Width: 2050
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 543 300 m 2,0,1
@@ -20082,7 +19019,6 @@ SplineSet
  1831 -52 1831 -52 1777 -52 c 2,132,-1
  316 -52 l 2,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1th1 u2
 EndChar
 
 StartChar: th1th1r1
@@ -20091,7 +19027,6 @@ Width: 2126
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 634 115 m 128,-1,1
@@ -20177,7 +19112,6 @@ SplineSet
  1358 976 l 2,119,120
  1479.19 976 1479.19 976 1531 912 c 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1th1 r1
 EndChar
 
 StartChar: th1th1r3
@@ -20186,7 +19120,6 @@ Width: 2330
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 832 205 m 2,0,1
@@ -20273,9 +19206,6 @@ SplineSet
  1814.64 970 1814.64 970 1982 970 c 1,18,-1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 th1th1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1th1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1th1 xx r3
 EndChar
 
 StartChar: th1th2
@@ -20284,7 +19214,6 @@ Width: 1820
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 204 m 2,0,1
@@ -20345,8 +19274,6 @@ SplineSet
  1182 817 1182 817 1182 767 c 2,79,-1
  1182 253 l 2,17,18
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx th2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx th2
 EndChar
 
 StartChar: th1n1
@@ -20355,7 +19282,6 @@ Width: 1556
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -20409,8 +19335,6 @@ SplineSet
  690.955 979 690.955 979 870.549 979 c 128,-1,71
  1050.14 979 1050.14 979 1105 915 c 1,11,12
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx n1
 EndChar
 
 StartChar: th1p4
@@ -20419,7 +19343,6 @@ Width: 1701
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -20489,8 +19412,6 @@ SplineSet
  1422 543 1422 543 1422 490 c 0,95,96
  1422 432 1422 432 1500 432 c 0,11,12
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx p4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx p4
 EndChar
 
 StartChar: th1p4u1
@@ -20499,7 +19420,6 @@ Width: 1737
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 308 m 2,0,1
@@ -20578,7 +19498,6 @@ SplineSet
  1443 389.824 1443 389.824 1500 391.5 c 0,111,112
  1517 392 1517 392 1535 392 c 0,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1p4 u1
 EndChar
 
 StartChar: th1p4u2
@@ -20587,7 +19506,6 @@ Width: 1749
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 311 m 2,0,1
@@ -20674,7 +19592,6 @@ SplineSet
  1748 492 1748 492 1748 373 c 2,120,-1
  1748 317 l 2,12,13
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1p4 u2
 EndChar
 
 StartChar: th1m1
@@ -20683,7 +19600,6 @@ Width: 1671
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -20753,8 +19669,6 @@ SplineSet
  690.273 978 690.273 978 846.364 978 c 128,-1,92
  1002.45 978 1002.45 978 1072 927 c 1,43,44
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx m1
 EndChar
 
 StartChar: th1m1u1
@@ -20763,7 +19677,6 @@ Width: 1671
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -20851,7 +19764,6 @@ SplineSet
  1669 0 l 1,117,-1
  1637 0 l 1,53,54
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1m1 u1
 EndChar
 
 StartChar: th1m1u2
@@ -20860,7 +19772,6 @@ Width: 1671
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -20959,7 +19870,6 @@ SplineSet
  1669 0 l 1,133,-1
  1643 0 l 1,51,52
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1m1 u2
 EndChar
 
 StartChar: th1r3
@@ -20968,7 +19878,6 @@ Width: 1485
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 836 212 m 2,0,1
@@ -21026,9 +19935,6 @@ SplineSet
  870.864 977 870.864 977 918 916 c 1,82,83
  960.273 978 960.273 978 1127 978 c 1,11,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 th1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th1 r4
 EndChar
 
 StartChar: th1r3u1
@@ -21037,7 +19943,6 @@ Width: 1485
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1118 -401 m 2,0,1
@@ -21113,7 +20018,6 @@ SplineSet
  870.864 977 870.864 977 918 916 c 1,104,105
  960.273 978 960.273 978 1127 978 c 1,21,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1r3 u1
 EndChar
 
 StartChar: th1r3u2
@@ -21122,7 +20026,6 @@ Width: 1485
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1103 -358 m 2,0,1
@@ -21207,7 +20110,6 @@ SplineSet
  870.864 977 870.864 977 918 916 c 1,119,120
  960.273 978 960.273 978 1127 978 c 1,19,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1r3 u2
 EndChar
 
 StartChar: th1l3
@@ -21216,7 +20118,6 @@ Width: 1193
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 474 -330 m 2,0,1
@@ -21299,8 +20200,6 @@ SplineSet
  578.81 976 578.81 976 623 918 c 1,111,112
  662.333 977 662.333 977 816 977 c 1,61,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" th1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" th1 l4
 EndChar
 
 StartChar: th1s1
@@ -21309,7 +20208,6 @@ Width: 1883
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 202 m 2,0,1
@@ -21372,8 +20270,6 @@ SplineSet
  1701 115 1701 115 1701 212 c 2,84,-1
  1701 761 l 2,11,12
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx s1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1
 EndChar
 
 StartChar: th1s1u1
@@ -21382,7 +20278,6 @@ Width: 1883
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 202 m 2,0,1
@@ -21458,7 +20353,6 @@ SplineSet
  1701 115 1701 115 1701 212 c 2,103,-1
  1701 761 l 2,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1s1 u1
 EndChar
 
 StartChar: th1s1u2
@@ -21467,7 +20361,6 @@ Width: 1883
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 202 m 2,0,1
@@ -21555,7 +20448,6 @@ SplineSet
  1701 115 1701 115 1701 212 c 2,119,-1
  1701 761 l 2,19,20
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th1s1 u2
 EndChar
 
 StartChar: th1s1n1
@@ -21564,7 +20456,6 @@ Width: 1804
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 547 246 m 2,0,1
@@ -21648,8 +20539,6 @@ SplineSet
  1625 163 1625 163 1625 256 c 2,114,-1
  1625 777 l 2,43,44
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th1 xx s1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th1 xx s1 xx n1
 EndChar
 
 StartChar: th2u1
@@ -21658,7 +20547,6 @@ Width: 998
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 727 -237 m 2,0,1
@@ -21702,7 +20590,6 @@ SplineSet
  998 0 l 1,49,-1
  967 0 l 1,20,21
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th2 u1
 EndChar
 
 StartChar: th2u2
@@ -21711,7 +20598,6 @@ Width: 998
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 662 -127 m 2,0,1
@@ -21766,7 +20652,6 @@ SplineSet
  794 -21.5556 794 -21.5556 794 -44 c 2,65,-1
  794 -135 l 2,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th2 u2
 EndChar
 
 StartChar: th3u1
@@ -21775,7 +20660,6 @@ Width: 720
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 457 -247 m 2,0,1
@@ -21829,7 +20713,6 @@ SplineSet
  720 245 720 245 720 171.646 c 128,-1,65
  720 98.2927 720 98.2927 639 41 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3 u1
 EndChar
 
 StartChar: th3u2
@@ -21838,7 +20721,6 @@ Width: 720
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 452 -147 m 2,0,1
@@ -21899,7 +20781,6 @@ SplineSet
  730 245 730 245 730 176.171 c 128,-1,79
  730 107.343 730 107.343 662 51 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3 u2
 EndChar
 
 StartChar: th3r1
@@ -21908,7 +20789,6 @@ Width: 758
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 446 -186 m 1,0,1
@@ -21952,7 +20832,6 @@ SplineSet
  446 -186 l 1,0,1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3 r1
 EndChar
 
 StartChar: th3th3
@@ -21961,7 +20840,6 @@ Width: 735
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 631 178 m 1,0,1
@@ -22002,8 +20880,6 @@ SplineSet
  740 318 l 2,52,53
  740 224.714 740 224.714 631 178 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th3 xx th3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th3
 EndChar
 
 StartChar: th3th3u1
@@ -22012,7 +20888,6 @@ Width: 735
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 533 -358 m 128,-1,1
@@ -22072,7 +20947,6 @@ SplineSet
  740 198.364 740 198.364 740 102 c 2,75,-1
  740 62 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3th3 u1
 EndChar
 
 StartChar: th3th3u2
@@ -22081,7 +20955,6 @@ Width: 735
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 461 -237 m 2,0,1
@@ -22149,7 +21022,6 @@ SplineSet
  760 62 l 2,88,89
  760 -25.5312 760 -25.5312 699 -77 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3th3 u2
 EndChar
 
 StartChar: th3th4
@@ -22158,7 +21030,6 @@ Width: 1380
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1200 765 m 2,0,1
@@ -22211,8 +21082,6 @@ SplineSet
  1200 196 1200 196 1200 216 c 2,69,-1
  1200 765 l 2,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" th3 xx th4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" th3 xx th4
 EndChar
 
 StartChar: th3th4u1
@@ -22221,7 +21090,6 @@ Width: 1380
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1067 -257 m 2,0,1
@@ -22293,7 +21161,6 @@ SplineSet
  1200 196 1200 196 1200 216 c 2,95,-1
  1200 765 l 2,9,10
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3th4 u1
 EndChar
 
 StartChar: th3th4u2
@@ -22302,7 +21169,6 @@ Width: 1381
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1042 -137 m 2,0,1
@@ -22386,7 +21252,6 @@ SplineSet
  1200 196 1200 196 1200 216 c 2,111,-1
  1200 765 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3th4 u2
 EndChar
 
 StartChar: th3r3
@@ -22395,7 +21260,6 @@ Width: 1045
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 931 386 m 1,0,1
@@ -22435,9 +21299,6 @@ SplineSet
  1038 526 l 2,51,52
  1038 431.857 1038 431.857 931 386 c 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 th3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th3xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th3 r4
 EndChar
 
 StartChar: th3r3u1
@@ -22446,7 +21307,6 @@ Width: 1045
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 758 -384 m 2,0,1
@@ -22506,7 +21366,6 @@ SplineSet
  1038 348.783 1038 348.783 1038 240 c 2,77,-1
  1038 46 l 2,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3r3 u1
 EndChar
 
 StartChar: th3r3u2
@@ -22515,7 +21374,6 @@ Width: 1049
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 718 -336 m 2,0,1
@@ -22583,7 +21441,6 @@ SplineSet
  1038 46 l 2,91,92
  1038 -102 1038 -102 958 -172 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th3r3 u2
 EndChar
 
 StartChar: th4u1
@@ -22592,7 +21449,6 @@ Width: 946
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 657 -260 m 2,0,1
@@ -22643,7 +21499,6 @@ SplineSet
  765 174.5 765 174.5 765 210 c 2,64,-1
  765 765 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th4 u1
 EndChar
 
 StartChar: th4u2
@@ -22652,7 +21507,6 @@ Width: 946
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 632 -147 m 2,0,1
@@ -22710,7 +21564,6 @@ SplineSet
  946 202 l 2,76,77
  946 104.351 946 104.351 868 39 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th4 u2
 EndChar
 
 StartChar: th4r1
@@ -22719,7 +21572,6 @@ Width: 966
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 785 765 m 2,0,1
@@ -22765,7 +21617,6 @@ SplineSet
  785 117 785 117 785 204 c 2,60,-1
  785 765 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th4 r1
 EndChar
 
 StartChar: th4r3
@@ -22774,7 +21625,6 @@ Width: 1260
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1075 765 m 2,0,1
@@ -22822,9 +21672,6 @@ SplineSet
  1075 169 1075 169 1075 204 c 2,65,-1
  1075 765 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 th4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th4xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" th4 r4
 EndChar
 
 StartChar: th4r3u1
@@ -22833,7 +21680,6 @@ Width: 1260
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 958 -411 m 2,0,1
@@ -22897,7 +21743,6 @@ SplineSet
  1075 169 1075 169 1075 204 c 2,86,-1
  1075 765 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th4r3 u1
 EndChar
 
 StartChar: th4r3u2
@@ -22906,7 +21751,6 @@ Width: 1260
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 938 -346 m 2,0,1
@@ -22982,7 +21826,6 @@ SplineSet
  1256 841 1256 841 1256 787 c 2,105,-1
  1256 126 l 2,9,10
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" th4r3 u2
 EndChar
 
 StartChar: n1u1
@@ -22991,7 +21834,6 @@ Width: 1149
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 851 212 m 2,0,1
@@ -23036,7 +21878,6 @@ SplineSet
  310 999 310 999 390.077 999 c 128,-1,57
  470.154 999 470.154 999 532 932 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1 u1
 EndChar
 
 StartChar: n1u2
@@ -23045,7 +21886,6 @@ Width: 1414
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 847 212 m 2,0,1
@@ -23104,7 +21944,6 @@ SplineSet
  295 999 295 999 386.091 999 c 128,-1,78
  477.182 999 477.182 999 532 932 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1 u2
 EndChar
 
 StartChar: n1r1
@@ -23113,7 +21952,6 @@ Width: 977
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 518 915 m 1,0,1
@@ -23159,7 +21997,6 @@ SplineSet
  293 999 293 999 378.2 999 c 128,-1,60
  463.4 999 463.4 999 518 915 c 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1 r1
 EndChar
 
 StartChar: n1th1
@@ -23168,7 +22005,6 @@ Width: 1512
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 969 115 m 128,-1,1
@@ -23221,8 +22057,6 @@ SplineSet
  916.286 984 916.286 984 965 922 c 1,69,70
  1007.27 984 1007.27 984 1169 984 c 1,10,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th1
 EndChar
 
 StartChar: n1th1u1
@@ -23231,7 +22065,6 @@ Width: 1474
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 884 312 m 2,0,1
@@ -23294,7 +22127,6 @@ SplineSet
  916.368 977 916.368 977 961 924 c 1,85,86
  1000.79 978 1000.79 978 1153 978 c 1,11,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th1 u1
 EndChar
 
 StartChar: n1th1u2
@@ -23303,7 +22135,6 @@ Width: 1547
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 881 312 m 2,0,1
@@ -23376,7 +22207,6 @@ SplineSet
  795 977 l 1,99,100
  913.368 977 913.368 977 958 924 c 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th1 u2
 EndChar
 
 StartChar: n1th1r3
@@ -23385,7 +22215,6 @@ Width: 1821
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1259 115 m 128,-1,1
@@ -23449,9 +22278,6 @@ SplineSet
  1206.29 984 1206.29 984 1255 922 c 1,87,88
  1297.95 985 1297.95 985 1465 985 c 1,10,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 n1th1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th1 xx r3
 EndChar
 
 StartChar: n1th1r3u1
@@ -23460,7 +22286,6 @@ Width: 1821
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1468 -421 m 2,0,1
@@ -23541,7 +22366,6 @@ SplineSet
  1206.29 984 1206.29 984 1255 922 c 1,108,109
  1297.95 985 1297.95 985 1465 985 c 1,19,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th1r3 u1
 EndChar
 
 StartChar: n1th1r3u2
@@ -23550,7 +22374,6 @@ Width: 1821
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1448 -336 m 2,0,1
@@ -23641,7 +22464,6 @@ SplineSet
  1206.29 984 1206.29 984 1255 922 c 1,125,126
  1297.95 985 1297.95 985 1465 985 c 1,18,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th1r3 u2
 EndChar
 
 StartChar: n1th2
@@ -23650,7 +22472,6 @@ Width: 1599
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1416 774 m 2,0,1
@@ -23699,8 +22520,6 @@ SplineSet
  951 881.838 951 881.838 951 786 c 2,59,-1
  951 239 l 2,6,7
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx th2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th2
 EndChar
 
 StartChar: n1th2u1
@@ -23709,7 +22528,6 @@ Width: 1599
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1307 -237 m 2,0,1
@@ -23776,7 +22594,6 @@ SplineSet
  951 881.838 951 881.838 951 786 c 2,84,-1
  951 239 l 2,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th2 u1
 EndChar
 
 StartChar: n1th2u2
@@ -23785,7 +22602,6 @@ Width: 1599
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1252 -127 m 2,0,1
@@ -23862,7 +22678,6 @@ SplineSet
  951 881.838 951 881.838 951 786 c 2,98,-1
  951 239 l 2,14,15
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th2 u2
 EndChar
 
 StartChar: n1th3
@@ -23871,7 +22686,6 @@ Width: 1038
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 931 488 m 1,0,1
@@ -23913,8 +22727,6 @@ SplineSet
  1040 628 l 2,53,54
  1040 534.714 1040 534.714 931 488 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx th3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th3
 EndChar
 
 StartChar: n1th3u1
@@ -23923,7 +22735,6 @@ Width: 1038
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 767 -247 m 2,0,1
@@ -23982,7 +22793,6 @@ SplineSet
  1040 885.556 1040 885.556 1040 774 c 2,76,-1
  1040 628 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th3 u1
 EndChar
 
 StartChar: n1th3u2
@@ -23991,7 +22801,6 @@ Width: 1038
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 742 -128 m 2,0,1
@@ -24062,7 +22871,6 @@ SplineSet
  1060 245 1060 245 1060 176.171 c 128,-1,94
  1060 107.343 1060 107.343 992 51 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th3 u2
 EndChar
 
 StartChar: n1th3r3
@@ -24071,7 +22879,6 @@ Width: 1341
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1241 398 m 1,0,1
@@ -24122,9 +22929,6 @@ SplineSet
  1336 538 l 2,69,70
  1336 438.111 1336 438.111 1241 398 c 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 n1th3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th3 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th3 xx r3
 EndChar
 
 StartChar: n1th3r3u1
@@ -24133,7 +22937,6 @@ Width: 1341
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1028 -421 m 2,0,1
@@ -24201,7 +23004,6 @@ SplineSet
  1336 538 l 2,90,91
  1336 438.111 1336 438.111 1241 398 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th3r3 u1
 EndChar
 
 StartChar: n1th3r3u2
@@ -24210,7 +23012,6 @@ Width: 1341
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 988 -326 m 2,0,1
@@ -24292,7 +23093,6 @@ SplineSet
  1336 538 l 2,111,112
  1336 438.111 1336 438.111 1241 398 c 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th3r3 u2
 EndChar
 
 StartChar: n1th4
@@ -24301,7 +23101,6 @@ Width: 1643
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 961 206 m 2,0,1
@@ -24350,8 +23149,6 @@ SplineSet
  961 869.946 961 869.946 961 774 c 2,63,-1
  961 206 l 2,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx th4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx th4
 EndChar
 
 StartChar: n1th4u1
@@ -24360,7 +23157,6 @@ Width: 1643
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1347 -256 m 2,0,1
@@ -24424,7 +23220,6 @@ SplineSet
  961 869.946 961 869.946 961 774 c 2,84,-1
  961 206 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th4 u1
 EndChar
 
 StartChar: n1th4u2
@@ -24433,7 +23228,6 @@ Width: 1643
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1312 -137 m 2,0,1
@@ -24509,7 +23303,6 @@ SplineSet
  1643 204 l 2,100,101
  1643 102.538 1643 102.538 1563 41 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1th4 u2
 EndChar
 
 StartChar: n1th4r3
@@ -24518,7 +23311,6 @@ Width: 1937
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1241 206 m 2,0,1
@@ -24582,9 +23374,6 @@ SplineSet
  1241 869.946 1241 869.946 1241 774 c 2,87,-1
  1241 206 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 n1th4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th4 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" n1th4 xx r3
 EndChar
 
 StartChar: n1n1
@@ -24593,7 +23382,6 @@ Width: 1268
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 844 938 m 1,0,1
@@ -24636,8 +23424,6 @@ SplineSet
  576.8 1001 576.8 1001 681.6 1001 c 128,-1,52
  786.4 1001 786.4 1001 844 938 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx n1
 EndChar
 
 StartChar: n1n1u1
@@ -24646,7 +23432,6 @@ Width: 1489
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1191 212 m 2,0,1
@@ -24698,7 +23483,6 @@ SplineSet
  597.282 999 597.282 999 703.718 999 c 128,-1,66
  810.154 999 810.154 999 872 932 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1n1 u1
 EndChar
 
 StartChar: n1n1u2
@@ -24707,7 +23491,6 @@ Width: 1763
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1197 212 m 2,0,1
@@ -24773,7 +23556,6 @@ SplineSet
  597.139 999 597.139 999 712.16 999 c 128,-1,87
  827.182 999 827.182 999 882 932 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1n1 u2
 EndChar
 
 StartChar: n1m1
@@ -24782,7 +23564,6 @@ Width: 1158
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 686 661 m 0,0,1
@@ -24832,8 +23613,6 @@ SplineSet
  305 999 305 999 402.94 999 c 128,-1,62
  500.88 999 500.88 999 558 915 c 1,32,33
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx m1
 EndChar
 
 StartChar: n1m1u1
@@ -24842,7 +23621,6 @@ Width: 1158
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 887 -237 m 2,0,1
@@ -24910,7 +23688,6 @@ SplineSet
  1159 0 l 1,87,-1
  1127 0 l 1,42,43
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1m1 u1
 EndChar
 
 StartChar: n1m1u2
@@ -24919,7 +23696,6 @@ Width: 1158
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 822 -131 m 2,0,1
@@ -24998,7 +23774,6 @@ SplineSet
  305 999 305 999 402.94 999 c 128,-1,103
  500.88 999 500.88 999 558 915 c 1,40,41
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1m1 u2
 EndChar
 
 StartChar: n1rh
@@ -25007,7 +23782,6 @@ Width: 1127
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 843 263 m 2,0,1
@@ -25070,8 +23844,6 @@ SplineSet
  823.167 1131 823.167 1131 829 1061 c 1,81,-1
  660 1061 l 1,30,31
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" n1 xx rh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" n1 xx rh
 EndChar
 
 StartChar: n1rhu1
@@ -25080,7 +23852,6 @@ Width: 1127
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 932 -521 m 128,-1,1
@@ -25158,7 +23929,6 @@ SplineSet
  823.167 1131 823.167 1131 829 1061 c 1,102,-1
  660 1061 l 1,51,52
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1rh u1
 EndChar
 
 StartChar: n1rhu2
@@ -25167,7 +23937,6 @@ Width: 1127
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 876 -461 m 128,-1,1
@@ -25253,7 +24022,6 @@ SplineSet
  823.167 1131 823.167 1131 829 1061 c 1,113,-1
  660 1061 l 1,62,63
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" n1rh u2
 EndChar
 
 StartChar: p1u1
@@ -25262,7 +24030,6 @@ Width: 1024
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 757 -237 m 2,0,1
@@ -25307,7 +24074,6 @@ SplineSet
  1028 0 l 1,54,-1
  997 0 l 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1 u1
 EndChar
 
 StartChar: p1u2
@@ -25316,7 +24082,6 @@ Width: 1066
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 736 -135 m 2,0,1
@@ -25372,7 +24137,6 @@ SplineSet
  617 594.787 617 594.787 617 498 c 2,70,-1
  617 248 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1 u2
 EndChar
 
 StartChar: p1r1
@@ -25381,7 +24145,6 @@ Width: 1103
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 617 248 m 2,0,1
@@ -25426,7 +24189,6 @@ SplineSet
  617 590.917 617 590.917 617 498 c 2,57,-1
  617 248 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1 r1
 EndChar
 
 StartChar: p1t1
@@ -25435,7 +24197,6 @@ Width: 968
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 795 -88 m 1,0,1
@@ -25491,8 +24252,6 @@ SplineSet
  594 618.676 594 618.676 594 527 c 2,67,-1
  594 290 l 2,38,39
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx t1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx t1
 EndChar
 
 StartChar: p1th1
@@ -25501,7 +24260,6 @@ Width: 1008
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 684 -304 m 2,0,1
@@ -25561,8 +24319,6 @@ SplineSet
  594 290 l 2,45,46
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx th1
 EndChar
 
 StartChar: p1n1
@@ -25571,7 +24327,6 @@ Width: 987
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 679 1 m 1,0,1
@@ -25621,8 +24376,6 @@ SplineSet
  594 618.676 594 618.676 594 527 c 2,61,-1
  594 290 l 2,32,33
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx n1
 EndChar
 
 StartChar: p1p1
@@ -25631,7 +24384,6 @@ Width: 1110
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 703 845 m 0,0,1
@@ -25676,8 +24428,6 @@ SplineSet
  574 795 574 795 596.5 811.5 c 0,54,55
  642.182 845 642.182 845 703 845 c 0,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx p1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx p1
 EndChar
 
 StartChar: p1p1u1
@@ -25686,7 +24436,6 @@ Width: 1132
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 867 -237 m 2,0,1
@@ -25749,7 +24498,6 @@ SplineSet
  1128 0 l 1,81,-1
  1107 0 l 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1p1 u1
 EndChar
 
 StartChar: p1p1u2
@@ -25758,7 +24506,6 @@ Width: 1110
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 774 -127 m 2,0,1
@@ -25832,7 +24579,6 @@ SplineSet
  545 805.536 545 805.536 647 836.5 c 0,96,97
  675 845 675 845 703 845 c 0,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1p1 u2
 EndChar
 
 StartChar: p1p2
@@ -25841,7 +24587,6 @@ Width: 1021
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 900 -112 m 2,0,1
@@ -25896,8 +24641,6 @@ SplineSet
  551 588.676 551 588.676 551 497 c 2,63,-1
  551 260 l 2,34,35
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx p2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx p2
 EndChar
 
 StartChar: p1r3
@@ -25906,7 +24649,6 @@ Width: 1306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 877 248 m 2,0,1
@@ -25948,9 +24690,6 @@ SplineSet
  877 594.787 877 594.787 877 498 c 2,53,-1
  877 248 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 p1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p1 r4
 EndChar
 
 StartChar: p1r3u1
@@ -25959,7 +24698,6 @@ Width: 1306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1023 -423 m 2,0,1
@@ -26019,7 +24757,6 @@ SplineSet
  877 594.787 877 594.787 877 498 c 2,75,-1
  877 248 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1r3 u1
 EndChar
 
 StartChar: p1r3u2
@@ -26028,7 +24765,6 @@ Width: 1341
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 988 -356 m 2,0,1
@@ -26099,7 +24835,6 @@ SplineSet
  877 594.787 877 594.787 877 498 c 2,94,-1
  877 248 l 2,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1r3 u2
 EndChar
 
 StartChar: p1l3
@@ -26108,7 +24843,6 @@ Width: 1096
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 465 -339 m 2,0,1
@@ -26171,8 +24905,6 @@ SplineSet
  551 588.676 551 588.676 551 497 c 2,78,-1
  551 260 l 2,49,50
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" p1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" p1 l4
 EndChar
 
 StartChar: p1l3u1
@@ -26181,7 +24913,6 @@ Width: 1088
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 451 -283 m 2,0,1
@@ -26258,7 +24989,6 @@ SplineSet
  551 588.676 551 588.676 551 497 c 2,95,-1
  551 260 l 2,66,67
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1l3 u1
 EndChar
 
 StartChar: p1l3u2
@@ -26267,7 +24997,6 @@ Width: 1096
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 457 -283 m 2,0,1
@@ -26352,7 +25081,6 @@ SplineSet
  551 588.676 551 588.676 551 497 c 2,107,-1
  551 260 l 2,78,79
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p1l3 u2
 EndChar
 
 StartChar: p1s1
@@ -26361,7 +25089,6 @@ Width: 1069
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 906 -1 m 1,0,1
@@ -26420,8 +25147,6 @@ SplineSet
  551 588.676 551 588.676 551 497 c 2,74,-1
  551 260 l 2,45,46
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p1 xx s1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p1 xx s1
 EndChar
 
 StartChar: p2u1
@@ -26430,7 +25155,6 @@ Width: 1259
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 987 -237 m 2,0,1
@@ -26486,7 +25210,6 @@ SplineSet
  1259 0 l 1,69,-1
  1227 0 l 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p2 u1
 EndChar
 
 StartChar: p2u2
@@ -26495,7 +25218,6 @@ Width: 1259
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 927 -132 m 2,0,1
@@ -26561,7 +25283,6 @@ SplineSet
  617 595.054 617 595.054 617 498 c 2,83,-1
  617 214 l 2,14,15
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p2 u2
 EndChar
 
 StartChar: p2k1
@@ -26570,7 +25291,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1029 787 m 2,0,1
@@ -26649,8 +25369,6 @@ SplineSet
  1009.58 -138.42 l 1,67,68
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx k1
 EndChar
 
 StartChar: p2t1
@@ -26659,7 +25377,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1029 787 m 2,0,1
@@ -26721,8 +25438,6 @@ SplineSet
  848 -172 848 -172 906 -172 c 1,45,46
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx t1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx t1
 EndChar
 
 StartChar: p2th1
@@ -26731,7 +25446,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 838 -334 m 128,-1,1
@@ -26804,8 +25518,6 @@ SplineSet
  593 611.176 593 611.176 593 522 c 2,92,-1
  593 252 l 2,54,55
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx th1
 EndChar
 
 StartChar: p2n1
@@ -26814,7 +25526,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1029 787 m 2,0,1
@@ -26876,8 +25587,6 @@ SplineSet
  593 611.176 593 611.176 593 522 c 2,77,-1
  593 252 l 2,39,40
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx n1
 EndChar
 
 StartChar: p2r3
@@ -26886,7 +25595,6 @@ Width: 1514
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1336 777 m 2,0,1
@@ -26939,9 +25647,6 @@ SplineSet
  877 595.054 877 595.054 877 498 c 2,68,-1
  877 214 l 2,6,7
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 p2
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p2 r4
 EndChar
 
 StartChar: p2r3u1
@@ -26950,7 +25655,6 @@ Width: 1514
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1208 -423 m 2,0,1
@@ -27021,7 +25725,6 @@ SplineSet
  877 595.054 877 595.054 877 498 c 2,90,-1
  877 214 l 2,14,15
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p2r3 u1
 EndChar
 
 StartChar: p2r3u2
@@ -27030,7 +25733,6 @@ Width: 1514
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1169 -369 m 128,-1,1
@@ -27111,7 +25813,6 @@ SplineSet
  877 595.054 877 595.054 877 498 c 2,108,-1
  877 214 l 2,14,15
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p2r3 u2
 EndChar
 
 StartChar: p2l3
@@ -27120,7 +25821,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 574 -320 m 2,0,1
@@ -27194,8 +25894,6 @@ SplineSet
  593 614.571 593 614.571 593 522 c 2,93,-1
  593 252 l 2,55,56
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" p2xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" p2 l4
 EndChar
 
 StartChar: p2l3u1
@@ -27204,7 +25902,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 -258 m 2,0,1
@@ -27292,7 +25989,6 @@ SplineSet
  593 614.571 593 614.571 593 522 c 2,110,-1
  593 252 l 2,72,73
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p2l3 u1
 EndChar
 
 StartChar: p2l3u2
@@ -27301,7 +25997,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 -263 m 2,0,1
@@ -27396,7 +26091,6 @@ SplineSet
  593 614.571 593 614.571 593 522 c 2,121,-1
  593 252 l 2,83,84
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p2l3 u2
 EndChar
 
 StartChar: p2s1
@@ -27405,7 +26099,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1029 787 m 2,0,1
@@ -27474,8 +26167,6 @@ SplineSet
  1035.23 21.2822 l 1,45,46
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx s1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx s1
 EndChar
 
 StartChar: p2rhrh
@@ -27484,7 +26175,6 @@ Width: 1202
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1029 787 m 2,0,1
@@ -27553,8 +26243,6 @@ SplineSet
  593 614.571 593 614.571 593 522 c 2,85,-1
  593 252 l 2,47,48
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p2 xx rh xx rh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p2 xx rh xx rh
 EndChar
 
 StartChar: p3u1
@@ -27563,7 +26251,6 @@ Width: 1443
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -27628,7 +26315,6 @@ SplineSet
  1439 0 l 1,83,-1
  1417 0 l 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3 u1
 EndChar
 
 StartChar: p3u2
@@ -27637,7 +26323,6 @@ Width: 1443
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -27713,7 +26398,6 @@ SplineSet
  1135 977 1135 977 1135 767 c 2,99,-1
  1135 247 l 2,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3 u2
 EndChar
 
 StartChar: p3r1
@@ -27722,7 +26406,6 @@ Width: 1443
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -27789,7 +26472,6 @@ SplineSet
  1135 977 1135 977 1135 767 c 2,89,-1
  1135 247 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3 r1
 EndChar
 
 StartChar: p3ch3
@@ -27798,7 +26480,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 828 -306 m 2,0,1
@@ -27898,8 +26579,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,127,-1
  1084 283 l 2,77,78
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p3 xx ch3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx ch3
 EndChar
 
 StartChar: p3th3
@@ -27908,7 +26587,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 240 m 2,0,1
@@ -27979,8 +26657,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,89,-1
  1084 283 l 2,39,40
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p3 xx th3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx th3
 EndChar
 
 StartChar: p3th3u1
@@ -27989,7 +26665,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 240 m 2,0,1
@@ -28076,7 +26751,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,110,-1
  1084 283 l 2,60,61
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3th3 u1
 EndChar
 
 StartChar: p3th3u2
@@ -28085,7 +26759,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 240 m 2,0,1
@@ -28180,7 +26853,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,123,-1
  1084 283 l 2,73,74
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3th3 u2
 EndChar
 
 StartChar: p3th4
@@ -28189,7 +26861,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 240 m 2,0,1
@@ -28259,8 +26930,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,90,-1
  1084 283 l 2,40,41
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p3 xx th4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx th4
 EndChar
 
 StartChar: p3n1
@@ -28269,7 +26938,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 270 240 m 2,0,1
@@ -28340,8 +27008,6 @@ SplineSet
  978.646 14 978.646 14 1023.06 -16.1184 c 1,59,60
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p3 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx n1
 EndChar
 
 StartChar: p3p3
@@ -28350,7 +27016,6 @@ Width: 1443
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -28406,8 +27071,6 @@ SplineSet
  1135 977 1135 977 1135 767 c 2,68,-1
  1135 247 l 2,13,14
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" p3 xx p3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" p3 xx p3
 EndChar
 
 StartChar: p3p3u1
@@ -28416,7 +27079,6 @@ Width: 1443
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -28491,7 +27153,6 @@ SplineSet
  1135 977 1135 977 1135 767 c 2,93,-1
  1135 247 l 2,21,22
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3p3 u1
 EndChar
 
 StartChar: p3p3u2
@@ -28500,7 +27161,6 @@ Width: 1436
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -28583,7 +27243,6 @@ SplineSet
  1135 977 1135 977 1135 767 c 2,106,-1
  1135 247 l 2,21,22
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3p3 u2
 EndChar
 
 StartChar: p3r3
@@ -28592,7 +27251,6 @@ Width: 1722
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 558 202 m 2,0,1
@@ -28654,9 +27312,6 @@ SplineSet
  1415 977 1415 977 1415 767 c 2,82,-1
  1415 247 l 2,8,9
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 p3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p3 r4
 EndChar
 
 StartChar: p3r3u1
@@ -28665,7 +27320,6 @@ Width: 1722
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 558 202 m 2,0,1
@@ -28745,7 +27399,6 @@ SplineSet
  1415 977 1415 977 1415 767 c 2,105,-1
  1415 247 l 2,17,18
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3r3 u1
 EndChar
 
 StartChar: p3r3u2
@@ -28754,7 +27407,6 @@ Width: 1722
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 558 202 m 2,0,1
@@ -28844,7 +27496,6 @@ SplineSet
  1415 977 1415 977 1415 767 c 2,121,-1
  1415 247 l 2,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3r3 u2
 EndChar
 
 StartChar: p3l3
@@ -28853,7 +27504,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 749 -318 m 2,0,1
@@ -28936,8 +27586,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,107,-1
  1084 283 l 2,57,58
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" p3xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" p3 l4
 EndChar
 
 StartChar: p3l3u1
@@ -28946,7 +27594,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 736 -263 m 2,0,1
@@ -29043,7 +27690,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,124,-1
  1084 283 l 2,74,75
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3l3 u1
 EndChar
 
 StartChar: p3l3u2
@@ -29052,7 +27698,6 @@ Width: 1373
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 735 -263 m 2,0,1
@@ -29156,7 +27801,6 @@ SplineSet
  1084 976 1084 976 1084 776 c 2,135,-1
  1084 283 l 2,85,86
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p3l3 u2
 EndChar
 
 StartChar: p4u1
@@ -29165,7 +27809,6 @@ Width: 829
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 625 392 m 2,0,1
@@ -29207,7 +27850,6 @@ SplineSet
  533 392 533 392 590 392 c 2,53,-1
  625 392 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p4 u1
 EndChar
 
 StartChar: p4u2
@@ -29216,7 +27858,6 @@ Width: 829
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 835 317 m 2,0,1
@@ -29267,7 +27908,6 @@ SplineSet
  835 492 835 492 835 373 c 2,64,-1
  835 317 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p4 u2
 EndChar
 
 StartChar: p4r1
@@ -29276,7 +27916,6 @@ Width: 800
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 803 117 m 2,0,-1
@@ -29331,7 +27970,6 @@ SplineSet
  759.358 312 759.358 312 794.5 173.5 c 0,74,75
  803 140 803 140 803 117 c 2,0,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p4 r1
 EndChar
 
 StartChar: p4r3
@@ -29340,7 +27978,6 @@ Width: 1106
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 900 331 m 0,0,1
@@ -29388,9 +28025,6 @@ SplineSet
  825 344 825 344 836.5 338 c 0,61,62
  849.917 331 849.917 331 900 331 c 0,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 p4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p4xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" p4 r4
 EndChar
 
 StartChar: p4r3u1
@@ -29399,7 +28033,6 @@ Width: 1106
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 798 -391 m 2,0,1
@@ -29465,7 +28098,6 @@ SplineSet
  1104 331 1104 331 1104 156 c 2,84,-1
  1104 98 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p4r3 u1
 EndChar
 
 StartChar: p4r3u2
@@ -29474,7 +28106,6 @@ Width: 1106
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 723 -447 m 2,0,1
@@ -29551,7 +28182,6 @@ SplineSet
  1104 98 l 2,102,103
  1104 -135.917 1104 -135.917 964 -203 c 1,27,28
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" p4r3 u2
 EndChar
 
 StartChar: m1u1
@@ -29560,7 +28190,6 @@ Width: 802
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 527 -237 m 2,0,1
@@ -29615,7 +28244,6 @@ SplineSet
  799 0 l 1,68,-1
  767 0 l 1,42,43
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1 u1
 EndChar
 
 StartChar: m1u2
@@ -29624,7 +28252,6 @@ Width: 802
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 473 -133 m 2,0,1
@@ -29690,7 +28317,6 @@ SplineSet
  344 -159 344 -159 344 -131 c 2,84,-1
  344 -74 l 2,40,41
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1 u2
 EndChar
 
 StartChar: m1r1
@@ -29699,7 +28325,6 @@ Width: 802
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 283 132 m 1,0,-1
@@ -29753,7 +28378,6 @@ SplineSet
  394 -148 l 2,69,70
  344 -148 344 -148 344 -195 c 0,30,31
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1 r1
 EndChar
 
 StartChar: m1n1
@@ -29762,7 +28386,6 @@ Width: 821
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 287 173 m 1,0,-1
@@ -29818,8 +28441,6 @@ SplineSet
  826 789 826 789 826 741 c 2,69,-1
  826 52 l 1,58,-1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" m1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx n1
 EndChar
 
 StartChar: m1p1
@@ -29828,7 +28449,6 @@ Width: 1214
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 943 245 m 2,0,1
@@ -29863,8 +28483,6 @@ SplineSet
  943 865.879 943 865.879 943 770 c 2,40,-1
  943 245 l 2,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" m1 xx p1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx p1
 EndChar
 
 StartChar: m1p1u1
@@ -29873,7 +28491,6 @@ Width: 1214
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 947 -237 m 2,0,1
@@ -29926,7 +28543,6 @@ SplineSet
  1214 0 l 1,65,-1
  1187 0 l 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1p1 u1
 EndChar
 
 StartChar: m1p1u2
@@ -29935,7 +28551,6 @@ Width: 1214
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 882 -131 m 2,0,1
@@ -29999,7 +28614,6 @@ SplineSet
  1214 0 l 1,81,-1
  1187 0 l 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1p1 u2
 EndChar
 
 StartChar: m1p1r3
@@ -30008,7 +28622,6 @@ Width: 1495
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1223 245 m 2,0,1
@@ -30058,9 +28671,6 @@ SplineSet
  1223 865.879 1223 865.879 1223 770 c 2,64,-1
  1223 245 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 m1p1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1p1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1p1 xx r3
 EndChar
 
 StartChar: m1p1r3u1
@@ -30069,7 +28679,6 @@ Width: 1495
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1188 -421 m 2,0,1
@@ -30138,7 +28747,6 @@ SplineSet
  1223 865.879 1223 865.879 1223 770 c 2,88,-1
  1223 245 l 2,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1p1r3 u1
 EndChar
 
 StartChar: m1p1r3u2
@@ -30147,7 +28755,6 @@ Width: 1495
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1169 -359 m 128,-1,1
@@ -30225,7 +28832,6 @@ SplineSet
  1223 865.879 1223 865.879 1223 770 c 2,104,-1
  1223 245 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1p1r3 u2
 EndChar
 
 StartChar: m1m1
@@ -30234,7 +28840,6 @@ Width: 1318
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 326 631 m 0,0,1
@@ -30298,8 +28903,6 @@ SplineSet
  554 978 l 2,79,80
  642.643 978 642.643 978 711 920 c 1,64,65
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" m1 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" m1 xx m1
 EndChar
 
 StartChar: m1m1u1
@@ -30308,7 +28911,6 @@ Width: 1318
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 326 631 m 0,0,1
@@ -30390,7 +28992,6 @@ SplineSet
  1319 0 l 1,105,-1
  1287 0 l 1,74,75
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1m1 u1
 EndChar
 
 StartChar: m1m1u2
@@ -30399,7 +29000,6 @@ Width: 1318
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 326 631 m 0,0,1
@@ -30492,7 +29092,6 @@ SplineSet
  554 978 l 2,120,121
  642.643 978 642.643 978 711 920 c 1,72,73
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" m1m1 u2
 EndChar
 
 StartChar: m1r3
@@ -30501,7 +29100,6 @@ Width: 1101
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 615 631 m 0,0,1
@@ -30552,9 +29150,6 @@ SplineSet
  298 977 298 977 349 977 c 1,65,-1
  349 823 l 1,32,33
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 m1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" m1 r4
 EndChar
 
 StartChar: m1l3
@@ -30563,7 +29158,6 @@ Width: 765
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 317 -307 m 2,0,1
@@ -30635,8 +29229,6 @@ SplineSet
  826 792 826 792 826 741 c 2,92,-1
  826 52 l 1,81,-1
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" m1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" m1 l4
 EndChar
 
 StartChar: y1u1
@@ -30645,7 +29237,6 @@ Width: 1233
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 897 -237 m 2,0,1
@@ -30708,7 +29299,6 @@ SplineSet
  1063 134 1063 134 1063 222 c 2,83,-1
  1063 767 l 2,32,33
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1 u1
 EndChar
 
 StartChar: y1u2
@@ -30717,7 +29307,6 @@ Width: 1233
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 882 -124 m 2,0,1
@@ -30791,7 +29380,6 @@ SplineSet
  1063 134 1063 134 1063 222 c 2,98,-1
  1063 767 l 2,30,31
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1 u2
 EndChar
 
 StartChar: y1k1
@@ -30800,7 +29388,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 463 -313 m 2,0,1
@@ -30890,8 +29477,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,113,-1
  1018 778 l 2,73,74
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx k1
 EndChar
 
 StartChar: y1k1k1
@@ -30900,7 +29485,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 385 -314 m 2,0,1
@@ -31002,8 +29586,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,133,-1
  1018 778 l 2,93,94
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1xx k1k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx k1 xx k1
 EndChar
 
 StartChar: y1k1k1u1
@@ -31012,7 +29594,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 387 -316 m 2,0,1
@@ -31123,7 +29704,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,147,-1
  1018 778 l 2,107,108
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1k1k1 u1
 EndChar
 
 StartChar: y1k1k1u2
@@ -31132,7 +29712,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 421 -279 m 2,0,1
@@ -31252,7 +29831,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,157,-1
  1018 778 l 2,117,118
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1k1k1 u2
 EndChar
 
 StartChar: y1th1
@@ -31261,7 +29839,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 678 -314 m 2,0,1
@@ -31345,8 +29922,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,111,-1
  1018 778 l 2,71,72
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx th1
 EndChar
 
 StartChar: y1th1u1
@@ -31355,7 +29930,6 @@ Width: 1178
 GlyphClass: 3
 Flags: MW
 LayerCount: 2
-Back
 Fore
 SplineSet
 713 -268 m 2,0,1
@@ -31449,7 +30023,6 @@ SplineSet
  1018 778 l 2,83,84
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1th1 u1
 EndChar
 
 StartChar: y1th1u2
@@ -31458,7 +30031,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 665 -271 m 2,0,1
@@ -31558,7 +30130,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,132,-1
  1018 778 l 2,92,93
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1th1 u2
 EndChar
 
 StartChar: y1p1
@@ -31567,7 +30138,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 475 177 m 1,0,1
@@ -31637,8 +30207,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,90,-1
  1018 778 l 2,24,25
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1xx p1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx p1
 EndChar
 
 StartChar: y1m1
@@ -31647,7 +30215,6 @@ Width: 1178
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 692 -352 m 1,0,1
@@ -31721,8 +30288,6 @@ SplineSet
  1018 177 1018 177 1018 260 c 2,96,-1
  1018 778 l 2,56,57
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" y1xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx m1
 EndChar
 
 StartChar: y1y1
@@ -31731,7 +30296,6 @@ Width: 1233
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1024 3 m 1,0,1
@@ -31790,8 +30354,6 @@ SplineSet
  1063 134 1063 134 1063 222 c 2,75,-1
  1063 767 l 2,31,32
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1 y2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" y1 xx y1
 EndChar
 
 StartChar: y1y1u1
@@ -31800,7 +30362,6 @@ Width: 1233
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 998 -491 m 128,-1,1
@@ -31874,8 +30435,6 @@ SplineSet
  1063 134 1063 134 1063 222 c 2,95,-1
  1063 767 l 2,36,37
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1y1 u1
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1 y2 u1
 EndChar
 
 StartChar: y1y1u2
@@ -31884,7 +30443,6 @@ Width: 1233
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 952 -397 m 128,-1,1
@@ -31966,8 +30524,6 @@ SplineSet
  1063 134 1063 134 1063 222 c 2,107,-1
  1063 767 l 2,36,37
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1y1 u2
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" y1 y2 u2
 EndChar
 
 StartChar: r3u1
@@ -31976,7 +30532,6 @@ Width: 1226
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -32029,7 +30584,6 @@ SplineSet
  1224 628 l 2,70,71
  1224 522.045 1224 522.045 1117 488 c 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" r3 u1
 EndChar
 
 StartChar: r3u2
@@ -32038,7 +30592,6 @@ Width: 1523
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 846 212 m 2,0,1
@@ -32106,7 +30659,6 @@ SplineSet
  1524 538 l 2,95,96
  1524 432.045 1524 432.045 1417 398 c 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" r3 u2
 EndChar
 
 StartChar: l3u1
@@ -32115,7 +30667,6 @@ Width: 992
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 727 -242 m 2,0,1
@@ -32158,7 +30709,6 @@ SplineSet
  992 0 l 1,45,-1
  963 0 l 1,14,15
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" l3 u1
 EndChar
 
 StartChar: l3u2
@@ -32167,7 +30717,6 @@ Width: 992
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 658 -132 m 2,0,1
@@ -32221,7 +30770,6 @@ SplineSet
  529 -158 529 -158 529 -130 c 2,61,-1
  529 -73 l 2,14,15
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" l3 u2
 EndChar
 
 StartChar: l3k1
@@ -32230,7 +30778,6 @@ Width: 998
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 392 -319 m 2,0,1
@@ -32296,8 +30843,6 @@ SplineSet
  993 966 l 1,74,-1
  993 48 l 1,58,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx k1
 EndChar
 
 StartChar: l3k1k1
@@ -32306,7 +30851,6 @@ Width: 1006
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 340 -316 m 2,0,1
@@ -32386,8 +30930,6 @@ SplineSet
  1000 966 l 1,94,-1
  1000 48 l 1,78,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3xx k1k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx k1 xx k1
 EndChar
 
 StartChar: l3p1
@@ -32396,7 +30938,6 @@ Width: 951
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 372 869 m 128,-1,1
@@ -32441,8 +30982,6 @@ SplineSet
  950 966 l 1,47,-1
  950 48 l 1,31,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3xx p1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx p1
 EndChar
 
 StartChar: l3m1
@@ -32451,7 +30990,6 @@ Width: 998
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 568 -355 m 1,0,-1
@@ -32502,8 +31040,6 @@ SplineSet
  993 966 l 1,55,-1
  993 48 l 1,39,-1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx m1
 EndChar
 
 StartChar: l3l3
@@ -32512,7 +31048,6 @@ Width: 992
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 408 -316 m 2,0,1
@@ -32574,9 +31109,6 @@ SplineSet
  100 48 l 1,73,-1
  100 780 l 2,57,58
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" l3xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" l3 l4
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" l3 xx l3
 EndChar
 
 StartChar: l3l3u1
@@ -32585,7 +31117,6 @@ Width: 990
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 409 -257 m 2,0,1
@@ -32659,8 +31190,6 @@ SplineSet
  990 966 l 1,87,-1
  990 48 l 1,71,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" l3l3 u1
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" l3 l4 u1
 EndChar
 
 StartChar: l3l3u2
@@ -32669,7 +31198,6 @@ Width: 988
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 438 -287 m 128,-1,1
@@ -32750,8 +31278,6 @@ SplineSet
  990 966 l 1,98,-1
  990 48 l 1,82,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" l3l3 u2
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" l3 l4 u2
 EndChar
 
 StartChar: v1u1
@@ -32760,7 +31286,6 @@ Width: 974
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 706 -237 m 2,0,1
@@ -32806,7 +31331,6 @@ SplineSet
  968 0 l 1,56,-1
  946 0 l 1,10,11
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 u1
 EndChar
 
 StartChar: v1u2
@@ -32815,7 +31339,6 @@ Width: 984
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 652 -131 m 2,0,1
@@ -32872,7 +31395,6 @@ SplineSet
  978 0 l 1,72,-1
  957 0 l 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 u2
 EndChar
 
 StartChar: v1r1
@@ -32881,7 +31403,6 @@ Width: 938
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 650 228 m 2,0,1
@@ -32926,7 +31447,6 @@ SplineSet
  650 228 l 2,0,1
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 r1
 EndChar
 
 StartChar: v1r3
@@ -32935,7 +31455,6 @@ Width: 1199
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 923 269 m 2,0,1
@@ -32979,9 +31498,6 @@ SplineSet
  923 879.16 923 879.16 923 785 c 2,58,-1
  923 269 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 v1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" v1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" v1 r4
 EndChar
 
 StartChar: v1l3
@@ -32990,7 +31506,6 @@ Width: 1125
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 379 -263 m 2,0,1
@@ -33055,8 +31570,6 @@ SplineSet
  597 884.875 597 884.875 597 794 c 2,82,-1
  597 304 l 2,51,52
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" v1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" v1 l4
 EndChar
 
 StartChar: v1v1
@@ -33065,7 +31578,6 @@ Width: 1012
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 827 -178 m 1,0,-1
@@ -33102,8 +31614,6 @@ SplineSet
  650 869.911 650 869.911 650 770 c 2,41,-1
  650 228 l 2,5,6
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 v2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" v1 xx v1
 EndChar
 
 StartChar: v1v1u1
@@ -33112,7 +31622,6 @@ Width: 1012
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 809 -488 m 128,-1,1
@@ -33168,8 +31677,6 @@ SplineSet
  1011 -267 l 1,67,-1
  982 -267 l 1,15,16
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1v1 u1
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 v2 u1
 EndChar
 
 StartChar: v1v1u2
@@ -33178,7 +31685,6 @@ Width: 1012
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 711 -370 m 2,0,1
@@ -33241,8 +31747,6 @@ SplineSet
  1008 -267 l 1,76,-1
  975 -267 l 1,13,14
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1v1 u2
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" v1 v2 u2
 EndChar
 
 StartChar: z1u1
@@ -33251,7 +31755,6 @@ Width: 1408
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 867 278 m 1,0,1
@@ -33319,7 +31822,6 @@ SplineSet
  437 227 437 227 437 312 c 2,90,-1
  437 795 l 2,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1 u1
 EndChar
 
 StartChar: z1u2
@@ -33328,7 +31830,6 @@ Width: 1406
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 867 278 m 1,0,1
@@ -33402,7 +31903,6 @@ SplineSet
  1406 440 l 2,97,98
  1406 350.909 1406 350.909 1338 337 c 1,11,12
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1 u2
 EndChar
 
 StartChar: z1r1
@@ -33411,7 +31911,6 @@ Width: 1391
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 957 232 m 2,0,-1
@@ -33485,7 +31984,6 @@ SplineSet
  1308.62 672 1308.62 672 1370 546 c 0,100,101
  1389 507 1389 507 1389 460 c 2,11,-1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1 r1
 EndChar
 
 StartChar: z1ch1
@@ -33494,7 +31992,6 @@ Width: 1690
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 880 438 m 2,0,1
@@ -33555,8 +32052,6 @@ SplineSet
  278 851.86 278 851.86 278 761 c 2,80,-1
  278 220 l 2,8,9
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" z1 xx ch1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx ch1
 EndChar
 
 StartChar: z1ch2
@@ -33565,7 +32060,6 @@ Width: 2185
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 880 438 m 2,0,1
@@ -33653,8 +32147,6 @@ SplineSet
  1488 143.333 1488 143.333 1488 262 c 2,120,-1
  1489 767 l 2,16,17
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" z1 xx ch2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx ch2
 EndChar
 
 StartChar: z1n1
@@ -33663,7 +32155,6 @@ Width: 1094
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 827 242 m 2,0,1
@@ -33732,8 +32223,6 @@ SplineSet
  418 159 418 159 418 251 c 2,89,-1
  418 779 l 2,42,43
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" z1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx n1
 EndChar
 
 StartChar: z1m1
@@ -33742,7 +32231,6 @@ Width: 1094
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 656 -366 m 1,0,1
@@ -33809,8 +32297,6 @@ SplineSet
  418 159 418 159 418 251 c 2,86,-1
  418 779 l 2,39,40
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" z1 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx m1
 EndChar
 
 StartChar: z1r3
@@ -33819,7 +32305,6 @@ Width: 1686
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1152 172 m 1,0,1
@@ -33891,9 +32376,6 @@ SplineSet
  722 115 722 115 722 212 c 2,99,-1
  722 768 l 2,10,11
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 z1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" z1 r4
 EndChar
 
 StartChar: z1r3u1
@@ -33902,7 +32384,6 @@ Width: 1686
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1358 -421 m 2,0,1
@@ -33991,7 +32472,6 @@ SplineSet
  722 115 722 115 722 212 c 2,119,-1
  722 768 l 2,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1r3 u1
 EndChar
 
 StartChar: z1r3u2
@@ -34000,7 +32480,6 @@ Width: 1686
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1339 -362 m 128,-1,1
@@ -34098,7 +32577,6 @@ SplineSet
  722 115 722 115 722 212 c 2,137,-1
  722 768 l 2,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1r3 u2
 EndChar
 
 StartChar: z1l3
@@ -34107,7 +32585,6 @@ Width: 1094
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 444 -310 m 2,0,1
@@ -34188,8 +32665,6 @@ SplineSet
  418 779 l 2,57,58
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" z1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" z1 l4
 EndChar
 
 StartChar: z1z1
@@ -34198,7 +32673,6 @@ Width: 1094
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 862 -329 m 2,0,1
@@ -34275,8 +32749,6 @@ SplineSet
  418 159 418 159 418 251 c 2,100,-1
  418 779 l 2,53,54
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" z1 xx z1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" z1 xx z1
 EndChar
 
 StartChar: z1z1u1
@@ -34285,7 +32757,6 @@ Width: 1094
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 803 -317 m 128,-1,1
@@ -34380,7 +32851,6 @@ SplineSet
  418 159 418 159 418 251 c 2,123,-1
  418 779 l 2,76,77
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1z1 u1
 EndChar
 
 StartChar: z1z1u2
@@ -34389,7 +32859,6 @@ Width: 1094
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 786 -297 m 2,0,1
@@ -34488,7 +32957,6 @@ SplineSet
  418 159 418 159 418 251 c 2,130,-1
  418 779 l 2,83,84
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" z1z1 u2
 EndChar
 
 StartChar: shu1
@@ -34497,7 +32965,6 @@ Width: 1402
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1127 -237 m 2,0,1
@@ -34566,7 +33033,6 @@ SplineSet
  617 564.787 617 564.787 617 468 c 2,87,-1
  617 226 l 2,23,24
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" sh u1
 EndChar
 
 StartChar: shu2
@@ -34575,7 +33041,6 @@ Width: 1402
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1072 -131 m 2,0,1
@@ -34654,7 +33119,6 @@ SplineSet
  1401 0 l 1,101,-1
  1377 0 l 1,21,22
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" sh u2
 EndChar
 
 StartChar: shk1
@@ -34663,7 +33127,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 653 -314 m 2,0,1
@@ -34753,8 +33216,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,111,-1
  1045 544 l 1,63,64
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx k1
 EndChar
 
 StartChar: shk1r1
@@ -34763,7 +33224,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 690 -347 m 0,0,1
@@ -34870,7 +33330,6 @@ SplineSet
  593 267 l 2,82,83
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" shk1 r1
 EndChar
 
 StartChar: shk1k1
@@ -34879,7 +33338,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 579 -315 m 2,0,1
@@ -34981,8 +33439,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,130,-1
  1045 544 l 1,82,83
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx k1 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx k1 xx k1
 EndChar
 
 StartChar: shk1r3
@@ -34991,7 +33447,6 @@ Width: 1466
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 842 -403 m 0,0,1
@@ -35097,9 +33552,6 @@ SplineSet
  617 564.787 617 564.787 617 468 c 2,134,-1
  617 226 l 2,83,84
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 shk1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" shk1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" shk1 xx r3
 EndChar
 
 StartChar: sht1
@@ -35108,7 +33560,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1166 480 m 1,0,1
@@ -35182,8 +33633,6 @@ SplineSet
  1045 544 l 1,43,44
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx t1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx t1
 EndChar
 
 StartChar: sht1r3
@@ -35192,7 +33641,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1166 480 m 1,0,1
@@ -35276,9 +33724,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,107,-1
  1045 544 l 1,59,60
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 sht1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sht1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sht1 xx r3
 EndChar
 
 StartChar: sht2
@@ -35287,7 +33732,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 851 -344 m 128,-1,1
@@ -35356,8 +33800,6 @@ SplineSet
  1045 544 l 1,37,38
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx t2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx t2
 EndChar
 
 StartChar: sht2u2
@@ -35366,7 +33808,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1069.3 -393.875 m 2,0,1
@@ -35458,7 +33899,6 @@ SplineSet
  719.5 -227 l 2,118,111
  719.5 -341.5 719.5 -341.5 851 -341.5 c 128,-1,112
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" sht2 u2
 EndChar
 
 StartChar: shnh
@@ -35467,7 +33907,6 @@ Width: 1406
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 615 -315 m 2,0,1
@@ -35563,8 +34002,6 @@ SplineSet
  593 591.014 593 591.014 593 498 c 2,124,-1
  593 267 l 2,73,74
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx nh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx nh
 EndChar
 
 StartChar: shnhu1
@@ -35573,7 +34010,6 @@ Width: 1406
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 596 -339 m 128,-1,1
@@ -35681,7 +34117,6 @@ SplineSet
  593 591.014 593 591.014 593 498 c 2,142,-1
  593 267 l 2,91,92
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" shnh u1
 EndChar
 
 StartChar: shp1
@@ -35690,7 +34125,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1166 480 m 1,0,1
@@ -35760,8 +34194,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,86,-1
  1045 544 l 1,38,39
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx p1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx p1
 EndChar
 
 StartChar: shp1r3
@@ -35770,7 +34202,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1166 480 m 1,0,1
@@ -35854,9 +34285,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,108,-1
  1045 544 l 1,60,61
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 shp1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" shp1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" shp1 xx r3
 EndChar
 
 StartChar: shp2
@@ -35865,7 +34293,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1190 -82 m 2,0,1
@@ -35943,8 +34370,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,95,-1
  1045 544 l 1,47,48
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx p2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx p2
 EndChar
 
 StartChar: shm1
@@ -35953,7 +34378,6 @@ Width: 1339
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 926 -346 m 1,0,1
@@ -36026,8 +34450,6 @@ SplineSet
  1045 891.746 1045 891.746 1045 808 c 2,92,-1
  1045 544 l 1,44,45
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" sh xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" sh xx m1
 EndChar
 
 StartChar: shm1r3
@@ -36036,7 +34458,6 @@ Width: 1663
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1479 132 m 1,0,-1
@@ -36107,9 +34528,6 @@ SplineSet
  877 566.413 877 566.413 877 468 c 2,93,-1
  877 226 l 2,16,17
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 sh
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" shxx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" sh r4
 EndChar
 
 StartChar: s1u1
@@ -36118,7 +34536,6 @@ Width: 1292
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 987 -257 m 2,0,1
@@ -36170,7 +34587,6 @@ SplineSet
  1107 115 1107 115 1107 210 c 2,69,-1
  1107 764 l 2,9,10
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1 u1
 EndChar
 
 StartChar: s1u2
@@ -36179,7 +34595,6 @@ Width: 1292
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 952 -137 m 2,0,1
@@ -36243,7 +34658,6 @@ SplineSet
  1107 115 1107 115 1107 210 c 2,85,-1
  1107 764 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1 u2
 EndChar
 
 StartChar: s1r1
@@ -36252,7 +34666,6 @@ Width: 1292
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1107 764 m 2,0,1
@@ -36309,7 +34722,6 @@ SplineSet
  1107 115 1107 115 1107 210 c 2,78,-1
  1107 764 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1 r1
 EndChar
 
 StartChar: s1k1
@@ -36318,7 +34730,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 493 -294 m 2,0,1
@@ -36397,8 +34808,6 @@ SplineSet
  984 993 l 1,50,51
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1
 EndChar
 
 StartChar: s1k1u1
@@ -36407,7 +34816,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 585 -349 m 0,0,1
@@ -36495,7 +34903,6 @@ SplineSet
  1061 163 1061 163 1061 254 c 2,111,-1
  1061 780 l 2,62,63
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1k1 u1
 EndChar
 
 StartChar: s1k1u2
@@ -36504,7 +34911,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 534 -272 m 2,0,1
@@ -36597,7 +35003,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,119,-1
  984 993 l 1,71,72
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1k1 u2
 EndChar
 
 StartChar: s1k1r1
@@ -36606,7 +35011,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1085 -235 m 2,0,1
@@ -36701,7 +35105,6 @@ SplineSet
  1061 780 l 2,70,71
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1k1 r1
 EndChar
 
 StartChar: s1k1k1
@@ -36710,7 +35113,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 432 -325 m 2,0,1
@@ -36798,8 +35200,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,114,-1
  984 993 l 1,66,67
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx k1 xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k1 xx k1
 EndChar
 
 StartChar: s1k1r3
@@ -36808,7 +35208,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 675 -343 m 0,0,1
@@ -36897,9 +35296,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,116,-1
  984 993 l 1,68,69
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 s1k1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1k1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1k1 xx r3
 EndChar
 
 StartChar: s1k2
@@ -36908,7 +35304,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 624 -306 m 2,0,1
@@ -36977,8 +35372,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,91,-1
  984 993 l 1,8,9
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx k2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx k2
 EndChar
 
 StartChar: s1t1r3
@@ -36987,7 +35380,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1017 -114 m 1,0,1
@@ -37059,8 +35451,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,94,-1
  984 993 l 1,46,47
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx t1 xx r3
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx t1 xx r3
 EndChar
 
 StartChar: s1th1
@@ -37069,7 +35459,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 795 -318 m 2,0,1
@@ -37143,8 +35532,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,97,-1
  984 993 l 1,49,50
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx th1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th1
 EndChar
 
 StartChar: s1th1u1
@@ -37153,7 +35540,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 795 -280 m 2,0,1
@@ -37233,7 +35619,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,106,-1
  984 993 l 1,58,59
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1th1 u1
 EndChar
 
 StartChar: s1th1u2
@@ -37242,7 +35627,6 @@ Width: 1241
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 755 -287 m 2,0,1
@@ -37334,7 +35718,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,122,-1
  984 993 l 1,74,75
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1th1 u2
 EndChar
 
 StartChar: s1th1r1
@@ -37343,7 +35726,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 840 -116 m 2,0,1
@@ -37429,7 +35811,6 @@ SplineSet
  1061 163 1061 163 1061 254 c 2,114,-1
  1061 780 l 2,65,66
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1th1 r1
 EndChar
 
 StartChar: s1th1r3
@@ -37438,7 +35819,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 859 -303 m 2,0,1
@@ -37519,9 +35899,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,111,-1
  984 993 l 1,63,64
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 s1th1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1th1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1th1 xx r3
 EndChar
 
 StartChar: s1th2
@@ -37530,7 +35907,6 @@ Width: 1986
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1805 122 m 1,0,-1
@@ -37588,8 +35964,6 @@ SplineSet
  1290 835 1290 835 1290 777 c 2,73,-1
  1290 200 l 2,10,11
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx th2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx th2
 EndChar
 
 StartChar: s1th2u2
@@ -37598,7 +35972,6 @@ Width: 1986
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1642 -137 m 2,0,1
@@ -37685,7 +36058,6 @@ SplineSet
  1290 200 l 2,18,19
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1th2 u2
 EndChar
 
 StartChar: s1n1
@@ -37694,7 +36066,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 849 -10 m 1,0,1
@@ -37758,8 +36129,6 @@ SplineSet
  984 993 l 1,34,35
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx n1
 EndChar
 
 StartChar: s1p1
@@ -37768,7 +36137,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 984 993 m 1,0,1
@@ -37826,8 +36194,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,74,-1
  984 993 l 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx p1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx p1
 EndChar
 
 StartChar: s1p1u1
@@ -37836,7 +36202,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1045 -514 m 128,-1,1
@@ -37911,7 +36276,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,96,-1
  984 993 l 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1p1 u1
 EndChar
 
 StartChar: s1p1u2
@@ -37920,7 +36284,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 975 -426 m 2,0,1
@@ -38004,7 +36367,6 @@ SplineSet
  984 993 l 1,8,9
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1p1 u2
 EndChar
 
 StartChar: s1p1r1
@@ -38013,7 +36375,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1061 780 m 2,0,1
@@ -38087,7 +36448,6 @@ SplineSet
  1061 163 1061 163 1061 254 c 2,97,-1
  1061 780 l 2,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1p1 r1
 EndChar
 
 StartChar: s1p1r3
@@ -38096,7 +36456,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 984 993 m 1,0,1
@@ -38165,9 +36524,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,93,-1
  984 993 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 s1p1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1p1 r4
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1p1 xx r3
 EndChar
 
 StartChar: s1p2
@@ -38176,7 +36532,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1050 -94 m 2,0,1
@@ -38242,8 +36597,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,82,-1
  984 993 l 1,34,35
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx p2
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx p2
 EndChar
 
 StartChar: s1p2u1
@@ -38252,7 +36605,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1005 -544 m 128,-1,1
@@ -38335,7 +36687,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,104,-1
  984 993 l 1,56,57
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1p2 u1
 EndChar
 
 StartChar: s1m1
@@ -38344,7 +36695,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 746 -355 m 1,0,1
@@ -38405,8 +36755,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,79,-1
  984 993 l 1,31,32
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx m1
 EndChar
 
 StartChar: s1m1u1
@@ -38415,7 +36763,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 925 -527 m 128,-1,1
@@ -38494,7 +36841,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,102,-1
  984 993 l 1,54,55
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1m1 u1
 EndChar
 
 StartChar: s1m1u2
@@ -38503,7 +36849,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 917 -468 m 128,-1,1
@@ -38589,7 +36934,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,112,-1
  984 993 l 1,64,65
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1m1 u2
 EndChar
 
 StartChar: s1m1r1
@@ -38598,7 +36942,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 785 -362 m 1,0,1
@@ -38679,7 +37022,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,102,-1
  984 993 l 1,54,55
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1m1 r1
 EndChar
 
 StartChar: s1r3
@@ -38688,7 +37030,6 @@ Width: 1590
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1407 764 m 2,0,1
@@ -38740,9 +37081,6 @@ SplineSet
  1407 115 1407 115 1407 210 c 2,71,-1
  1407 764 l 2,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 s1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" s1 r4
 EndChar
 
 StartChar: s1r3u1
@@ -38751,7 +37089,6 @@ Width: 1590
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1294 -488 m 128,-1,1
@@ -38822,7 +37159,6 @@ SplineSet
  1407 115 1407 115 1407 210 c 2,97,-1
  1407 764 l 2,9,10
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1r3 u1
 EndChar
 
 StartChar: s1r3u2
@@ -38831,7 +37167,6 @@ Width: 1590
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1243 -336 m 2,0,1
@@ -38913,7 +37248,6 @@ SplineSet
  1407 115 1407 115 1407 210 c 2,113,-1
  1407 764 l 2,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1r3 u2
 EndChar
 
 StartChar: s1l3
@@ -38922,7 +37256,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 594 -305 m 2,0,1
@@ -38996,8 +37329,6 @@ SplineSet
  984 993 l 1,8,9
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" s1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" s1 l4
 EndChar
 
 StartChar: s1l3u1
@@ -39006,7 +37337,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 -253 m 2,0,1
@@ -39094,7 +37424,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,117,-1
  984 993 l 1,19,20
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1l3 u1
 EndChar
 
 StartChar: s1l3u2
@@ -39103,7 +37432,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 576 -253 m 2,0,1
@@ -39198,7 +37526,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,126,-1
  984 993 l 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1l3 u2
 EndChar
 
 StartChar: s1s1
@@ -39207,7 +37534,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1039 28 m 1,0,1
@@ -39278,8 +37604,6 @@ SplineSet
  984 993 l 1,44,45
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx s1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx s1
 EndChar
 
 StartChar: s1s1u1
@@ -39288,7 +37612,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1015 -534 m 128,-1,1
@@ -39375,7 +37698,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,116,-1
  984 993 l 1,68,69
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1s1 u1
 EndChar
 
 StartChar: s1s1u2
@@ -39384,7 +37706,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 987 -467 m 128,-1,1
@@ -39478,7 +37799,6 @@ SplineSet
  984 993 l 1,76,77
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1s1 u2
 EndChar
 
 StartChar: s1rhrh
@@ -39487,7 +37807,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 323 -97 m 2,0,1
@@ -39556,8 +37875,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,89,-1
  984 993 l 1,41,42
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" s1 xx rh xx rh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" s1 xx rh xx rh
 EndChar
 
 StartChar: s1rhrhu1
@@ -39566,7 +37883,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1075.5 -378 m 2,0,-1
@@ -39653,7 +37969,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,113,-1
  984 993 l 1,65,66
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1rhrh u1
 EndChar
 
 StartChar: s1rhrhu2
@@ -39662,7 +37977,6 @@ Width: 1235
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1057 -467 m 128,-1,1
@@ -39755,7 +38069,6 @@ SplineSet
  1061 864.925 1061 864.925 984 863 c 1,123,-1
  984 993 l 1,75,76
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" s1rhrh u2
 EndChar
 
 StartChar: h1u1
@@ -39764,7 +38077,6 @@ Width: 1306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 745 227 m 1,0,1
@@ -39821,7 +38133,6 @@ SplineSet
  615 265.706 615 265.706 568 227 c 1,75,-1
  745 227 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" h1 u1
 EndChar
 
 StartChar: h1u2
@@ -39830,7 +38141,6 @@ Width: 1306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1237 478 m 1,0,1
@@ -39894,7 +38204,6 @@ SplineSet
  1304 682 l 2,84,85
  1304 523.56 1304 523.56 1237 478 c 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" h1 u2
 EndChar
 
 StartChar: h1r1
@@ -39903,7 +38212,6 @@ Width: 1286
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 745 132 m 1,0,1
@@ -39958,7 +38266,6 @@ SplineSet
  615 176.957 615 176.957 568 132 c 1,74,-1
  745 132 l 1,0,1
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" h1 r1
 EndChar
 
 StartChar: h1n1
@@ -39967,7 +38274,6 @@ Width: 1604
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1178 915 m 1,0,1
@@ -40019,8 +38325,6 @@ SplineSet
  938 998 938 998 1030.93 998 c 128,-1,66
  1123.87 998 1123.87 998 1178 915 c 1,0,1
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" h1 xx n1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx n1
 EndChar
 
 StartChar: h1m1
@@ -40029,7 +38333,6 @@ Width: 1419
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 983 593.5 m 2,0,-1
@@ -40083,8 +38386,6 @@ SplineSet
  615 595.054 615 595.054 615 498 c 2,67,-1
  615 226 l 2,28,29
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" h1 xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" h1 xx m1
 EndChar
 
 StartChar: h1r3
@@ -40093,7 +38394,6 @@ Width: 1586
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1005 132 m 1,0,1
@@ -40151,9 +38451,6 @@ SplineSet
  875 179 875 179 828 132 c 1,80,-1
  1005 132 l 1,0,1
 EndSplineSet
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam2 lookup 8 subtable" r4 h1
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" h1xx r3
-Ligature2: "'pres' Pre Base Substitutions in Malay+AQEA-lam lookup 7 subtable" h1 r4
 EndChar
 
 StartChar: h1r3u1
@@ -40162,7 +38459,6 @@ Width: 1586
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1284 -511 m 128,-1,1
@@ -40236,7 +38532,6 @@ SplineSet
  875 179 875 179 828 132 c 1,100,-1
  1005 132 l 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" h1r3 u1
 EndChar
 
 StartChar: h1l3
@@ -40245,7 +38540,6 @@ Width: 1296
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 624 -361 m 2,0,1
@@ -40323,8 +38617,6 @@ SplineSet
  615 179 615 179 568 132 c 1,104,-1
  745 132 l 1,8,9
 EndSplineSet
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" h1xx l3
-Ligature2: "'blws' Below Base Substitutions lookup 6 subtable" h1 l4
 EndChar
 
 StartChar: lhu1
@@ -40333,7 +38625,6 @@ Width: 860
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 587 -367 m 2,0,1
@@ -40406,7 +38697,6 @@ SplineSet
  860 554.38 860 554.38 759 516 c 1,96,-1
  757 516 l 1,18,19
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" lh u1
 EndChar
 
 StartChar: lhu2
@@ -40415,7 +38705,6 @@ Width: 860
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 557 -292 m 2,0,1
@@ -40495,7 +38784,6 @@ SplineSet
  323 64 l 2,105,16
  250 64 250 64 250 8 c 128,-1,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" lh u2
 EndChar
 
 StartChar: lhlh
@@ -40504,7 +38792,6 @@ Width: 1675
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 290 432 m 2,0,1
@@ -40603,8 +38890,6 @@ SplineSet
  1030 64 1030 64 1030 8 c 128,-1,17
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" lh xx lh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" lh xx lh
 EndChar
 
 StartChar: lhlhu1
@@ -40613,7 +38898,6 @@ Width: 1675
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 290 432 m 2,0,1
@@ -40728,7 +39012,6 @@ SplineSet
  1103 64 l 2,158,24
  1030 64 1030 64 1030 8 c 128,-1,25
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" lhlh u1
 EndChar
 
 StartChar: lhlhu2
@@ -40737,7 +39020,6 @@ Width: 1675
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 290 432 m 2,0,1
@@ -40863,7 +39145,6 @@ SplineSet
  1103 64 l 2,176,24
  1030 64 1030 64 1030 8 c 128,-1,25
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" lhlh u2
 EndChar
 
 StartChar: zhu1
@@ -40872,7 +39153,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 547 -147 m 2,0,1
@@ -40933,7 +39213,6 @@ SplineSet
  280 492.104 280 492.104 371 494 c 1,81,-1
  415 494 l 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" zh u1
 EndChar
 
 StartChar: zhu2
@@ -40942,7 +39221,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 547 -84 m 2,0,1
@@ -41013,7 +39291,6 @@ SplineSet
  280 492.104 280 492.104 371 494 c 1,95,-1
  415 494 l 1,16,17
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" zh u2
 EndChar
 
 StartChar: zhk1
@@ -41022,7 +39299,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 282 -230 m 2,0,1
@@ -41104,8 +39380,6 @@ SplineSet
  686 44.1905 686 44.1905 686 -49 c 1,28,29
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx k1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx k1
 EndChar
 
 StartChar: zhch1
@@ -41114,7 +39388,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 541 584 m 2,0,1
@@ -41183,8 +39456,6 @@ SplineSet
  415 494 l 1,34,35
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx ch1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx ch1
 EndChar
 
 StartChar: zhm1
@@ -41193,7 +39464,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 466 -272 m 1,0,1
@@ -41257,8 +39527,6 @@ SplineSet
  280 492.104 280 492.104 371 494 c 1,80,-1
  415 494 l 1,27,28
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx m1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx m1
 EndChar
 
 StartChar: zhs1
@@ -41267,7 +39535,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 541 584 m 2,0,1
@@ -41350,8 +39617,6 @@ SplineSet
  687.51 12.7764 l 2,63,64
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" zh xx s1
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" zh xx s1
 EndChar
 
 StartChar: rhu1
@@ -41360,7 +39625,6 @@ Width: 685
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 487 -207 m 2,0,1
@@ -41400,7 +39664,6 @@ SplineSet
  689 190 l 2,47,48
  689 117 689 117 640 65 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" rh u1
 EndChar
 
 StartChar: rhu2
@@ -41409,7 +39672,6 @@ Width: 689
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 484 -102 m 2,0,1
@@ -41459,7 +39721,6 @@ SplineSet
  689 190 l 2,61,62
  689 126.722 689 126.722 654 82 c 1,8,9
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" rh u2
 EndChar
 
 StartChar: rhrh
@@ -41468,7 +39729,6 @@ Width: 733
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 416 184 m 128,-1,1
@@ -41511,8 +39771,6 @@ SplineSet
  292 812.882 292 812.882 292 761 c 2,53,-1
  292 376 l 2,21,22
 EndSplineSet
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam2 lookup 1 subtable" rh xx rh
-Ligature2: "'akhn' Akhand in Malay+AQEA-lam lookup 0 subtable" rh xx rh
 EndChar
 
 StartChar: rhrhu1
@@ -41521,7 +39779,6 @@ Width: 733
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 523 -482 m 2,0,1
@@ -41576,7 +39833,6 @@ SplineSet
  292 812.882 292 812.882 292 761 c 2,69,-1
  292 376 l 2,37,38
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" rhrh u1
 EndChar
 
 StartChar: rhrhu2
@@ -41585,7 +39841,6 @@ Width: 733
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 522 -423 m 128,-1,1
@@ -41651,7 +39906,6 @@ SplineSet
  292 812.882 292 812.882 292 761 c 2,84,-1
  292 376 l 2,52,53
 EndSplineSet
-Ligature2: "'psts' Post Base Substitutions lookup 9 subtable" rhrh u2
 EndChar
 
 StartChar: l4
@@ -41660,7 +39914,6 @@ Width: 98
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 -529 -360 m 2,0,1
@@ -41701,8 +39954,6 @@ SplineSet
  -166 -396 -166 -396 -111 -396 c 128,-1,9
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam2 lookup 5 subtable" xx l3
-Ligature2: "'blwf' Below Base Forms in Malay+AQEA-lam lookup 4 subtable" l3 xx
 EndChar
 
 StartChar: k1xx
@@ -41711,7 +39962,6 @@ Width: 1265
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 329 118 m 0,0,1
@@ -41783,7 +40033,6 @@ SplineSet
  1514 1300 l 1,64,65
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" k1 xx
 EndChar
 
 StartChar: k2xx
@@ -41792,7 +40041,6 @@ Width: 1111
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 285 188 m 2,0,1
@@ -41850,7 +40098,6 @@ SplineSet
  1258 1272 1258 1272 1251 1300 c 1,74,-1
  1414 1300 l 1,49,50
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" k2 xx
 EndChar
 
 StartChar: k3xx
@@ -41859,7 +40106,6 @@ Width: 951
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -41908,7 +40154,6 @@ SplineSet
  1058 1272 1058 1272 1051 1300 c 1,63,-1
  1214 1300 l 1,38,39
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" k3 xx
 EndChar
 
 StartChar: k4xx
@@ -41917,7 +40162,6 @@ Width: 1540
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1046 449 m 1,0,-1
@@ -41984,7 +40228,6 @@ SplineSet
  1688 1272 1688 1272 1681 1300 c 1,82,-1
  1844 1300 l 1,57,58
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" k4 xx
 EndChar
 
 StartChar: ngxx
@@ -41993,7 +40236,6 @@ Width: 1204
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -42065,7 +40307,6 @@ SplineSet
  1288 1272 1288 1272 1281 1300 c 1,96,-1
  1444 1300 l 1,71,72
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ng xx
 EndChar
 
 StartChar: ch1xx
@@ -42074,7 +40315,6 @@ Width: 1060
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 705 329 m 2,0,1
@@ -42123,7 +40363,6 @@ SplineSet
  1208 1272 1208 1272 1201 1300 c 1,62,-1
  1364 1300 l 1,37,38
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ch1 xx
 EndChar
 
 StartChar: ch2xx
@@ -42132,7 +40371,6 @@ Width: 1516
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1234 202 m 2,0,1
@@ -42208,7 +40446,6 @@ SplineSet
  1608 1272 1608 1272 1601 1300 c 1,102,-1
  1764 1300 l 1,77,78
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ch2 xx
 EndChar
 
 StartChar: ch3xx
@@ -42217,7 +40454,6 @@ Width: 1114
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 348 258 m 2,0,1
@@ -42311,7 +40547,6 @@ SplineSet
  1228 1272 1228 1272 1221 1300 c 1,119,-1
  1384 1300 l 1,94,95
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ch3 xx
 EndChar
 
 StartChar: ch4xx
@@ -42320,7 +40555,6 @@ Width: 1864
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -42401,7 +40635,6 @@ SplineSet
  1958 1272 1958 1272 1951 1300 c 1,113,-1
  2114 1300 l 1,88,89
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" ch4 xx
 EndChar
 
 StartChar: njxx
@@ -42410,7 +40643,6 @@ Width: 1720
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 327 115 m 128,-1,1
@@ -42493,7 +40725,6 @@ SplineSet
  1808 1272 1808 1272 1801 1300 c 1,111,-1
  1964 1300 l 1,86,87
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" nj xx
 EndChar
 
 StartChar: t1xx
@@ -42502,7 +40733,6 @@ Width: 681
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 389 862 m 0,0,1
@@ -42560,7 +40790,6 @@ SplineSet
  778 1272 778 1272 771 1300 c 1,73,-1
  934 1300 l 1,48,49
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" t1 xx
 EndChar
 
 StartChar: t2xx
@@ -42569,7 +40798,6 @@ Width: 654
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -42614,7 +40842,6 @@ SplineSet
  758 1272 758 1272 751 1300 c 1,55,-1
  914 1300 l 1,30,31
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" t2 xx
 EndChar
 
 StartChar: t3xx
@@ -42623,7 +40850,6 @@ Width: 1306
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1055 988 m 1,0,1
@@ -42685,7 +40911,6 @@ SplineSet
  1388 1272 1388 1272 1381 1300 c 1,83,-1
  1544 1300 l 1,58,59
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" t3 xx
 EndChar
 
 StartChar: t4xx
@@ -42694,7 +40919,6 @@ Width: 1452
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1167 586 m 2,0,1
@@ -42765,7 +40989,6 @@ SplineSet
  1558 1272 1558 1272 1551 1300 c 1,95,-1
  1714 1300 l 1,70,71
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" t4 xx
 EndChar
 
 StartChar: nhxx
@@ -42774,7 +40997,6 @@ Width: 1496
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 202 m 2,0,1
@@ -42853,7 +41075,6 @@ SplineSet
  1588 1272 1588 1272 1581 1300 c 1,104,-1
  1744 1300 l 1,79,80
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" nh xx
 EndChar
 
 StartChar: th1xx
@@ -42862,7 +41083,6 @@ Width: 1193
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 566 212 m 2,0,1
@@ -42927,7 +41147,6 @@ SplineSet
  1268 1272 1268 1272 1261 1300 c 1,89,-1
  1424 1300 l 1,64,65
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" th1 xx
 EndChar
 
 StartChar: th2xx
@@ -42936,7 +41155,6 @@ Width: 998
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 815 132 m 1,0,-1
@@ -42980,7 +41198,6 @@ SplineSet
  1088 1272 1088 1272 1081 1300 c 1,50,-1
  1244 1300 l 1,25,26
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" th2 xx
 EndChar
 
 StartChar: th3xx
@@ -42989,7 +41206,6 @@ Width: 720
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 611 488 m 1,0,1
@@ -43040,7 +41256,6 @@ SplineSet
  808 1272 808 1272 801 1300 c 1,66,-1
  964 1300 l 1,41,42
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" th3 xx
 EndChar
 
 StartChar: th4xx
@@ -43049,7 +41264,6 @@ Width: 946
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 765 765 m 2,0,1
@@ -43098,7 +41312,6 @@ SplineSet
  1038 1272 1038 1272 1031 1300 c 1,64,-1
  1194 1300 l 1,39,40
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" th4 xx
 EndChar
 
 StartChar: n1xx
@@ -43107,7 +41320,6 @@ Width: 946
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 518 915 m 1,0,1
@@ -43158,7 +41370,6 @@ SplineSet
  1038 1272 1038 1272 1031 1300 c 1,66,-1
  1194 1300 l 1,41,42
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" n1 xx
 EndChar
 
 StartChar: p1xx
@@ -43167,7 +41378,6 @@ Width: 1008
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 617 248 m 2,0,1
@@ -43212,7 +41422,6 @@ SplineSet
  1148 1272 1148 1272 1141 1300 c 1,55,-1
  1304 1300 l 1,30,31
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" p1 xx
 EndChar
 
 StartChar: p2xx
@@ -43221,7 +41430,6 @@ Width: 1259
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1076 777 m 2,0,1
@@ -43277,7 +41485,6 @@ SplineSet
  1358 1272 1358 1272 1351 1300 c 1,70,-1
  1514 1300 l 1,45,46
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" p2 xx
 EndChar
 
 StartChar: p3xx
@@ -43286,7 +41493,6 @@ Width: 1443
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 202 m 2,0,1
@@ -43351,7 +41557,6 @@ SplineSet
  1588 1272 1588 1272 1581 1300 c 1,84,-1
  1744 1300 l 1,59,60
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" p3 xx
 EndChar
 
 StartChar: p4xx
@@ -43360,7 +41565,6 @@ Width: 800
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 590 432 m 0,0,1
@@ -43413,7 +41617,6 @@ SplineSet
  888 1272 888 1272 881 1300 c 1,70,-1
  1044 1300 l 1,45,46
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" p4 xx
 EndChar
 
 StartChar: m1xx
@@ -43422,7 +41625,6 @@ Width: 802
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 326 631 m 0,0,1
@@ -43477,7 +41679,6 @@ SplineSet
  878 1272 878 1272 871 1300 c 1,69,-1
  1034 1300 l 1,44,45
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" m1 xx
 EndChar
 
 StartChar: y1xx
@@ -43486,7 +41687,6 @@ Width: 1233
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 491 134 m 1,0,1
@@ -43552,7 +41752,6 @@ SplineSet
  1318 1272 1318 1272 1311 1300 c 1,88,-1
  1474 1300 l 1,63,64
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" y1 xx
 EndChar
 
 StartChar: r3xx
@@ -43561,7 +41760,6 @@ Width: 821
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 537 202 m 2,0,1
@@ -43615,7 +41813,6 @@ SplineSet
  898 1272 898 1272 891 1300 c 1,70,-1
  1054 1300 l 1,45,46
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" r3 xx
 EndChar
 
 StartChar: rhxx
@@ -43624,7 +41821,6 @@ Width: 669
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 278 212 m 2,0,1
@@ -43666,7 +41862,6 @@ SplineSet
  748 1272 748 1272 741 1300 c 1,54,-1
  904 1300 l 1,29,30
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" rh xx
 EndChar
 
 StartChar: l3xx
@@ -43675,7 +41870,6 @@ Width: 992
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 489 767 m 2,0,1
@@ -43720,7 +41914,6 @@ SplineSet
  1294 1300 l 1,23,24
 EndSplineSet
 LCarets2: 1 0
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" l3 xx
 EndChar
 
 StartChar: lhxx
@@ -43729,7 +41922,6 @@ Width: 860
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 280 432 m 2,0,1
@@ -43799,7 +41991,6 @@ SplineSet
  948 1272 948 1272 941 1300 c 1,93,-1
  1104 1300 l 1,68,69
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" lh xx
 EndChar
 
 StartChar: zhxx
@@ -43808,7 +41999,6 @@ Width: 842
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 541 584 m 2,0,1
@@ -43874,7 +42064,6 @@ SplineSet
  928 1272 928 1272 921 1300 c 1,90,-1
  1084 1300 l 1,65,66
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" zh xx
 EndChar
 
 StartChar: v1xx
@@ -43883,7 +42072,6 @@ Width: 938
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 650 228 m 2,0,1
@@ -43929,7 +42117,6 @@ SplineSet
  1078 1272 1078 1272 1071 1300 c 1,57,-1
  1234 1300 l 1,32,33
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" v1 xx
 EndChar
 
 StartChar: z1xx
@@ -43938,7 +42125,6 @@ Width: 1147
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 862 202 m 2,0,1
@@ -44001,7 +42187,6 @@ SplineSet
  1228 1272 1228 1272 1221 1300 c 1,83,-1
  1384 1300 l 1,58,59
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" z1 xx
 EndChar
 
 StartChar: shxx
@@ -44010,7 +42195,6 @@ Width: 1402
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1220 449 m 1,0,1
@@ -44079,7 +42263,6 @@ SplineSet
  1538 1272 1538 1272 1531 1300 c 1,88,-1
  1694 1300 l 1,63,64
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" sh xx
 EndChar
 
 StartChar: s1xx
@@ -44088,7 +42271,6 @@ Width: 1292
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 1103 764 m 2,0,1
@@ -44145,7 +42327,6 @@ SplineSet
  1344 1272 1344 1272 1337 1300 c 1,76,-1
  1500 1300 l 1,51,52
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" s1 xx
 EndChar
 
 StartChar: h1xx
@@ -44154,7 +42335,6 @@ Width: 1296
 GlyphClass: 3
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 745 132 m 1,0,1
@@ -44214,7 +42394,6 @@ SplineSet
  1388 1272 1388 1272 1381 1300 c 1,79,-1
  1544 1300 l 1,54,55
 EndSplineSet
-Ligature2: "'half' Half Forms in Malay+AQEA-lam lookup 3 subtable" h1 xx
 EndChar
 
 StartChar: quotedblleft
@@ -44223,7 +42402,6 @@ Width: 696
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 397 922 m 1,0,-1
@@ -44247,7 +42425,6 @@ Width: 696
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 684 1321 m 1,0,-1
@@ -44269,7 +42446,6 @@ Width: 412
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 397 922 m 1,0,-1
@@ -44287,7 +42463,6 @@ Width: 412
 GlyphClass: 2
 Flags: W
 LayerCount: 2
-Back
 Fore
 SplineSet
 397 1321 m 1,0,-1
@@ -44482,7 +42657,6 @@ SplineSet
  859 -403 859 -403 870 -392.5 c 132,-1,209
  881 -382 881 -382 881 -365 c 6,198,-1
 EndSplineSet
-Fore
 EndChar
 
 StartChar: NameMe.643
@@ -44657,7 +42831,6 @@ SplineSet
  806 -314 806 -314 817.5 -308 c 132,-1,204
  829 -302 829 -302 829 -287 c 6,191,-1
 EndSplineSet
-Fore
 EndChar
 
 StartChar: NameMe.644
@@ -44813,7 +42986,6 @@ SplineSet
  840 -104 840 -104 834.5 -95 c 132,-1,183
  829 -86 829 -86 803 -82 c 5,170,171
 EndSplineSet
-Fore
 EndChar
 EndChars
 EndSplineFont
