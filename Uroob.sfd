@@ -65,7 +65,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 84 42 14
+WinInfo: 252 36 11
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -79,7 +79,7 @@ Grid
  52.8652 2476.08 2040.18 2374.62 4080 2322 c 1029
 EndSplineSet
 TeXData: 1 0 0 289792 144896 96597 461824 -1048576 96597 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 631 634
+BeginChars: 641 634
 
 StartChar: .notdef
 Encoding: 180 -1 0
@@ -42991,7 +42991,7 @@ StartChar: dotreph
 Encoding: 630 3406 633
 Width: 0
 GlyphClass: 4
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
