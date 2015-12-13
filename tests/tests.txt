@@ -12,7 +12,7 @@ Quarter ൳
 Half ൴
 ThreeQuarter ൵
 --------------------
-Date Marks		
+Date Marks
 10൹
 10-ാം
 6 ാം
