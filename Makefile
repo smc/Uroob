@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 fontpath=/usr/share/fonts/truetype/malayalam
-fonts=Uroob
+fonts=Uroob-Regular
 feature=features/features.fea
 PY=python2.7
 buildscript=tools/build.py
